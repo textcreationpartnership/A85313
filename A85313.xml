@@ -1,0 +1,896 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Presbyterial ordination vindicated. In a brief and sober discourse concerning episcopacy, as claiming greater power, and more eminent offices by divine right, then presbyterie. The arguments of the Reverend Bishop Dr Davenant in his determination for such episcopacy are modestly examined. And arguments for the validity of presbyterial ordination added. With a brief discourse concerning imposed forms of prayer, and ceremonies. Written by G.F. minister of the gospel in defence of his own ordination, being questioned, because it was performed by Presbyters.</title>
+            <author>Firmin, Giles, 1614-1697.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 139 KB of XML-encoded text transcribed from 28 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85313</idno>
+            <idno type="STC">Wing F961</idno>
+            <idno type="STC">Thomason E1045_17</idno>
+            <idno type="STC">ESTC R208016</idno>
+            <idno type="EEBO-CITATION">99867022</idno>
+            <idno type="PROQUEST">99867022</idno>
+            <idno type="VID">119312</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85313)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119312)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 155:E1045[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Presbyterial ordination vindicated. In a brief and sober discourse concerning episcopacy, as claiming greater power, and more eminent offices by divine right, then presbyterie. The arguments of the Reverend Bishop Dr Davenant in his determination for such episcopacy are modestly examined. And arguments for the validity of presbyterial ordination added. With a brief discourse concerning imposed forms of prayer, and ceremonies. Written by G.F. minister of the gospel in defence of his own ordination, being questioned, because it was performed by Presbyters.</title>
+                  <author>Firmin, Giles, 1614-1697.</author>
+               </titleStmt>
+               <extent>[8], 48 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Nathanael Webb at the Kings head in S. Pauls Church yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>G. F. = Giles Firmin.</note>
+                  <note>Annotation on Thomason copy: "Septemb: 29".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ordination --  Early works to 1800.</term>
+               <term>Presbyterianism --  Early works to 1800.</term>
+               <term>Espicopacy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119312:1" rendition="simple:additions"/>
+            <p>
+               <hi>Presbyterial Ordination</hi> VINDICATED. In a Brief and Sober DISCOURSE CONCERNING EPISCOPACY, As claiming <hi>greater Power,</hi> and <hi>more eminent Offices</hi> by DIVINE RIGHT, then Presbyterie.</p>
+            <p>The Arguments of the Reverend Biſhop D<hi rend="sup">r</hi> 
+               <hi>Davenant</hi> in his Determination for ſuch EPISCOPACY are modeſtly Examined. And Argu<g ref="char:EOLhyphen"/>ments for the Validity of Presbyterial Ordination added.</p>
+            <p>With a brief DISCOURSE concerning Impoſed Forms of Prayer, and CEREMONIES.</p>
+            <p>Written by <hi>G.F.</hi> Miniſter of the Goſpel in Defence of his own Ordination, being queſtioned, becauſe it was performed by PRESBYTERS.</p>
+            <q>
+               <bibl>
+                  <hi>Iſa. 8.20.</hi>
+               </bibl> To the Law and to the Teſtimony, If they speak not according to this word, it is becauſe there is no light in them.</q>
+            <q>
+               <hi>Patrum ſcriptanon ſunt regulae, nee habent auctotitatem obligandi</hi> 
+               <bibl>Bell. de Conc. <hi>l.<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> c. 12.</hi>
+               </bibl>
+            </q>
+            <q>Is it ſo horrible an hereſie as he <hi>[Harding]</hi> makes it, to ſay, that by the Scriptures of God, a Biſhop and a Prieſt are all one? All theſe, S. <hi>Chryſoſtom</hi> S. <hi>Hierom,</hi> S. <hi>Auguſtine,</hi> S. <hi>Am<g ref="char:EOLhyphen"/>broſe,</hi> and other more holy Fathers, together with S. <hi>Paul</hi> the Apostle, for thus ſaying, by Mr. <hi>Hardings</hi> advice, must be holden for <hi>Hereticks.</hi> 
+               <bibl>Biſhop <hi>Jewell</hi> Defen. Apol. <hi>p. 202.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Nathanael Webb</hi> at the Kings head in S. <hi>Pauls</hi> Church yard. 1660.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:119312:2"/>
+            <pb facs="tcp:119312:2"/>
+            <head>THE PREFACE.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>HE</hi> waies of the Lord towards our KING in his Affliction, Preſervation, and Reſtauration, were ſuch, as upon them all we may write <hi>wonderfull.</hi> Prayers were poured out for him in his Affliction, and for his Reſtauration Praiſes were not ſilent. Prayers, I ſay, were poured out from ſympathiſing and enlarged hearts, they were not read out of a book: his Affliction was not <hi>common,</hi> no wonder though a prayer ſutable could not be found in a <hi>Common-prayer Book:</hi> But had there been a Prayer in the Book anſwerable to his Condition, we could not have been content with that, our hearts had not room to work, had we been ſtraitened by a Form: yet a Form of Prayer, when agreeable to Gods Word, I do not judg unlawfull.</p>
+            <p>But Who <hi>heard</hi> thoſe Prayers? Where were they made? ſay you: I tell you, God heard them, and men heard them: they were made in our Studies, between God &amp; our own ſouls, they were made in our families: they were made in our daies of private Faſting, and Prayer, which you call <hi>Conventicles</hi>] Would you have heard them in our Publick Congregations? it may be you would; but would you then have judged us <hi>prudent?</hi> Yet ſome of us were ſo imprudent [knowing the tempers of our Congregators which could ſay heartily, <hi>Amen</hi>] to pray publickly for him in his loweſt condition: The priſon had witneſſed it, had I not a friend who delivered me; and this year, had not his <hi>Majeſtie</hi> been reſtored, it had been proved, being threatned to my face, and the threats often repeated, That as ſure as God was in heaven I ſhould be called into queſtion, only for praying for the afflicted Royall Family: If any deſire other Proofs of Loyally to his <hi>Majeſty</hi> in his low condition, I could give them, but I ſpare to name
+<pb facs="tcp:119312:3"/>them, Such <hi>Subjects</hi> had his <hi>Majeſty</hi> among the now despiſed <hi>Presbyterians,</hi> who, had they not been <hi>faithfull</hi> and <hi>loyal</hi> to his <hi>Majeſty,</hi> [as they were bound to be bythe <hi>Solemn Covenant</hi>] but would have cloſed with the Army, doubtleſs they could have carried ſuch a Party with them, that I believe as yet our <hi>King</hi> had not ſet upon his <hi>Engliſh</hi> Throne, nor had the voice of Thanksgiving for his reſtoring been heard in our <hi>Iland.</hi>
+            </p>
+            <p>The <hi>Lord</hi> then rebuke the <hi>ſpirits</hi> of thoſe men who go about [notwithſtanding his <hi>Majeſties</hi> gracious <hi>Declaration,</hi> to give Liberty to tender Conſciences] to make ſad the hearts of thoſe men who have thus prayed, and praiſed <hi>GOD</hi> for our <hi>King,</hi> by labouring to impoſe upon us again thoſe humane Inventions in the Worſhip of God, which were the firſt beginners of our troubles; I ſay, the firſt beginners: for I dare ſay, had it not been for thoſe Humane devices, and tyrannical forcing upon the Miniſtry of Chriſt, what men only invented, but God never appointed: and for their not yielding to their wills, ſilenced abundance, impriſoned divers, and forced into baniſhment many of the eminent Servants of Chriſt, God had not been as yet ſo provoked (though I know there was guilt enough) the Spirits of people had not been ſo exaſperated, to have raiſed a Civil Warr, and therein ſpill ſo much <hi>Engliſh</hi> blood, much leſſe the bloud of our <hi>Soveraign King,</hi> a perſon of rare and Princely Endowments, as before the Warrs I was a little informed, in the Warrs further confirmed, but after the Warres certainly aſſured, by that excellent Book of <hi>His,</hi> which who can read, and then think who did the fact, but muſt needs lament, the wound, the ſtain, the blot, which the Reformed Proteſtant Religion, accompanied (at leaſt ſeemingly) with warm and powerfull profeſſion received, alas, how ſhall the glory of it be recovered again!</p>
+            <p>See what Tentations drive men to, ſome to ſecure their own Lives and Eſtates, ſuppoſing they lay in danger: ſome from Ambition, ſome from a deſigne to carry on their one private intereſt, and others out of a fond conceit of another a <hi>Fifth Monarchy,</hi> juſt now beginning, [Fools to phanſie, as if, in that glorious time, which I doubt not the Church ſhall have, before the ultimate day of judgment, [according to the Soriptures; not mens phanſies] <hi>Kings,</hi> who are the ſupream, <hi>1 Pet. 2.13.</hi> ſhould not be <hi>Nurſing Fathers,</hi> Iſa. <hi>49.23.]</hi> Thus ſeveral men from ſeveral Tentations and Principles were carried to act that which my pen ſhall not name, but only pray, <hi>Lead us not into temptation.</hi>
+            </p>
+            <p>How well this was reſented among the <hi>Presbyterians,</hi> beſides what is
+<pb facs="tcp:119312:3"/>publiſhed, and ſhould have been publiſhed, but that they were ſo quick in doing that, which I could not believe they dared to do, were but the ſeveral Sermons which they preached, (ſome chooſing Texts on purpoſe) gathered together; Were the lamenting Prayers they made in publick and private recorded among men, as they are before God, no modeſt man that loveth truth would ſay, <hi>The Presbyterians brought,</hi> Him <hi>to the block,</hi> who ever did the next act which I love not to mention.</p>
+            <p>But to return to the firſt Beginners which I mentioned of our troubles, as I have cauſe to judge them ſo, chiefly from the Word of a jealous God, <hi>Exod. 20.5.</hi> So I am ſomething the more enclined to judge, from the <hi>Predictions</hi> of two <hi>Divines,</hi> whom <hi>Biſhop LAUD</hi> ſilenced. I heard them both utter them, <hi>one</hi> before the <hi>Troubles</hi> began, the <hi>other</hi> after; this alſo had foretold before the troubles, but I heard him ſpeak the words after, yet before the things fell out, or there were any ſuch thoughts in the breaſts of men, inſomuch that I was amazed to hear him, and how confidently he ſpake; Neither of <hi>theſe</hi> had any hand in beginning the troubles, (I am ſure for <hi>one</hi>) both did deteſt with great abhorrency the death of the <hi>King,</hi> received the news with lamentation: I gave no great credence to them, for I thought we had no infallible Prophets living, but when I ſaw their words ſo exactly fulfilled, then I called to minde what I had heard them ſay, which I will not ſet down, onely concerning <hi>Biſhop LAUD,</hi> when he was in his height, one had theſe words, <hi>If that man die the ordinary death of men, then hath not God ſpoken by me;</hi> the man was an eminent <hi>Divine,</hi> a <hi>Maſter-workman,</hi> whether his words were not true you may judge. The Lord grant, that Reverend <hi>USHERS Propheſie</hi> come not to paſs; I much fear it.</p>
+            <p>Shall theſe Soveraign and trembling Acts of a jealous God cauſe no aw upon our Spirits? Muſt we preſently, before we are healed perfectly of our wounds, provoke God again? will you try to force the <hi>Nation</hi> into <hi>Perjury,</hi> by violating the <hi>ſolemn Covenant?</hi> I beſeech you do not caſt ſuch ſcorn upon it: I remember, the laſt year, when the <hi>Army,</hi> and that piece of <hi>Parliament,</hi> (ſo called) were united, and in their height, while one was dehorting me friendly from praying for the <hi>Royal Family,</hi> I ſaid then, <hi>Though God may ſuffer theſe men to go on a while; yet if God be not revenged for the breach of that Covenant, I will not believe my Bible.</hi> God made good my words ſooner than I was aware of: I do yet believe, The Lord will in his time have a regard to it, let men now deſpiſe it as they pleaſe. I do proteſt, in the preſence of the living God, that it is not any envie that I beare to mens Honours, Riches,
+<pb facs="tcp:119312:4"/>Greatneſs, or Power in the Church, or that I affect a <hi>Panty,</hi> which makes me engage in this Controverſie, upon my one Defence, (for if my Ordination be <hi>null,</hi> I can hardly look on my ſelf as a Miniſter) I can freely yield you the Honours and the Riches [though my poor <hi>Viccaridg</hi> doth afford one but half the Maintenance for my Family] and the <hi>power</hi> you ſhould have alſo, would but that which you and we call the Rule of your and our Faith (the Scriptures) give you it. But if thoſe <hi>Officers</hi> our <hi>Covenant</hi> engages againſt muſt be owned in the Church, then we muſt not own our Bibles for <hi>a perfect Rule,</hi> for <hi>Regula non eſt, ſi quid ei deeſt,</hi> ſaith <hi>BASIL,</hi> Now all thoſe <hi>Officers</hi> mentioned in the <hi>Covenant,</hi> [even <hi>Biſhop</hi> as diſtinct from a <hi>Presbyter,</hi> and ſuperiour in power] <hi>Deſunt,</hi> they are wanting in that Rule, where all the Officers and their names are distinctly ſet down, and you cannot make new Officers by Conſequences.</p>
+            <p>The ſcope of the <hi>Covenant</hi> (though I never took it) ſo far as I can ſee as to the things of God, is to reduce all things to the <hi>Perfect Rule,</hi> the <hi>Holy Scriptures,</hi> which I think men do extreamly vilifie, in departing from it, and bringing in another <hi>Lesbian</hi> Rule of Antiquity, as if the Scriptures were not before the Fathers: and well may I call it <hi>Lesbian</hi> Rule, as <hi>Eraſmus</hi> interprets the <hi>Adage. Lesbia Regula dicitur quoties pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>epoſterè, non ad rationem factum, ſed ratio ad factum accornmodatur. Cum Lex moribus applicatur, non mores ad Legem emendantur.</hi> And is not this the practice of men in all theſe Controverſies about the Officers of the Church, and the Worſhip of God in this Nation, to tell us of the Fathers, and Primitive [but not Apoſtolicall] Churches, they alledg their Acts, [not in all things neither] and ſo carry the Scriptures to their Acts, but not their Acts to the Scriptures, and ſo judg them by the Perfect Rule. <hi>Calovius</hi> the <hi>Lutheran</hi> hath ſtrongly proved,
+<note place="margin">
+                  <hi>Syſt. loc. Theol.</hi> 1. <hi>p.</hi> 422.</note> that <hi>The Teſtimony of the Church, or Conſent of the Fathers in the five firſt</hi> Secula, <hi>or Centuries, after Chriſt, is not the Rule of Interpretation of the Scriptures, nor a</hi> medium <hi>ſo neceſſary, that without it by</hi> the Scriptures alone, <hi>the mouths of Adverſaries cannot be ſtopped.</hi> I yield to the Fathers as much as he doth.</p>
+            <p>Forthe Common-Prayer-Book, I ever ſaid there were ſome things in it good, nor did I ever condemn ſober and Godly men who uſed it, yet I think, if a Litturgy were neceſſary, [which I cannot learn from the Seriptures] we have Divires in <hi>England,</hi> endued with grace, and gifts, able to compoſe one, for the matter agreeable to the Word, and Forme, leſs
+<pb facs="tcp:119312:4"/>effenſive, then to be beholding to the <hi>Popiſh Puddles.</hi> And ſtrange it is, that for the pleaſing of a few Papists (pray God they prove not numerous now) who will not yet be drawn by it, we muſt diſpleaſe and drive from the worſhip of God thouſands of the beſt Proteſtants. Impoſe Formes of Prayers who will, before I would do ſuch an Act upon thoſe whom the Lord hath ſo graciouſly and excellently gifted, as are thouſands in this Nation; I had rather with Gods love go to my grave.</p>
+            <p>I have diſcourſed but briefly of theſe things: For Ceremonies I intended but to touch them. There is a <hi>Tract</hi> printed, entituled, <hi>A Modeſt Diſcourſe concerning the CEREMONIES of the Church of ENGLAND:</hi> It came to my hand when I had almoſt done: where you have theſe things more largely and Learnedly diſcuſſed. The Lord divert our fears, and if it be his will, let us enjoy his Ordinances, in their <hi>purity</hi> and <hi>power,</hi> his <hi>Ordinances,</hi> and <hi>Himſelf</hi> in his <hi>Ordinances:</hi> So ſhall we rejoyce in the Lord, and <hi>Prayers</hi> ſhall not be <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing for our <hi>KING.</hi>
+            </p>
+            <closer>
+               <signed>The unworhieſt of Chriſt Miniſters G. F.</signed>
+            </closer>
+         </div>
+         <div type="errata">
+            <pb facs="tcp:119312:5"/>
+            <p>READER, There was ſome miſcarriage when the Sheets were ſent down to be corrected, for ſome came not to my hand, ſo that I muſt commit my ſelf to thy Candor. Theſe Faults I obſerved;</p>
+            <p>Page 2. line 14. for <hi>them</hi> read <hi>him:</hi> for <hi>they</hi> r. <hi>he.</hi> p. 6. l. 28, 29. for <hi>more ſuperiour,</hi> r. <hi>above.</hi> p. 22. l. 36. <hi>Caepit.</hi> p. 32. l. 37. <hi>formes.</hi> p. 38. l. 39. for <hi>none,</hi> r. <hi>wee.</hi>
+            </p>
+            <p>For the Ceremonies I intended but a few words, and but to name <hi>Kneeling at the Sacrament.</hi> I am told Mr <hi>Rutherford</hi> hath written ſtrongly againſt it.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:119312:5"/>
+            <head>Presbyteriall Ordination VINDICATED.</head>
+            <div n="1" type="chapter">
+               <head>CHAP. I. <hi>Of Epiſcopacy,</hi> &amp;c.</head>
+               <p>
+                  <seg rend="decorInit">I</seg>N all the changes which have paſſed over this Nati<g ref="char:EOLhyphen"/>on of late years, it hath been the portion of the Lords Miniſters, to paſs through unkind dealings, and reproachful ſpeeches from ſeveral ſorts of men, no change proving to be on their ſide, but all changes againſt them. One while they were called <hi>Antichriſtian</hi> Miniſters, becauſe they were ordained by <hi>Biſhops,</hi> who being An<g ref="char:EOLhyphen"/>tichriſtian, all that were ordained by them, were ſuch alſo: Hence Epiſcopal Ordination muſt be renounced, a new one taken [or Popular Election alone might ſerve the turn] elſe the people, will renounce their Miniſtry, ſeparate from them, and ſo did. In this unexpected change [though much deſired and prayed for, as to our King and the Royal Family, with our Ancient Civil Govern<g ref="char:EOLhyphen"/>ment, unto which by ſolemn Covenant we were engaged] many hundreds of Godly Miniſters, and able for their work, are ſaid to be <hi>no</hi> Miniſters, becauſe they were ordained by <hi>Presbyters:</hi> And let me give you the words of one of the great Doctors, who asking a godly and able Miniſter, who was ordained by Presbyters, Whe<g ref="char:EOLhyphen"/>ther he were ordained by a Biſhop? Whether he had his Inſtituti<g ref="char:EOLhyphen"/>on, <hi>&amp;c.</hi> from a Biſhop? to which he anſwered, No; then ſaid this Learned Doctor to him, <hi>Your Ordination and Inſtitution is not worth a Fart.</hi> Sweetly ſpoken Sir!</p>
+               <pb n="2" facs="tcp:119312:6"/>
+               <p>According to the Talent the Lord hath lent me, I wrote a little in defence of Epiſcopal Ordination, ſo far as to prove it not to be Antichriſtian: But now the Controverſie is come home to my own door; for though in the preſence of the people who elected me, with their hands lifted up to manifeſt their Election, in a day of Faſting and Prayer, I was by five Ancient, Godly and Grave Divines [the greater part eminent in their Generation] ſet apart to the work of the Miniſtry by Impoſition of hands, Prayer, and words ſutable to the Ordinance, yet my Ordination is queſtioned by ſuch in whoſe defence I wrote before; (thank you Brethren) the ground being this, they judge Ordination to be a work proper to a Biſhop, whom they make an Officer diſtinct from Presby<g ref="char:EOLhyphen"/>ters, having more <hi>eminent Offices,</hi> and <hi>greater power</hi> belonging to them than Presbyters have. How they come by this power, is the queſtion; that Reverend and Learned Biſhop Dr. <hi>Davenant,</hi> in his 42 <hi>Determination,</hi> undertakes to prove that this <hi>eminency</hi> of the Biſhop, is <hi>in verbo divino adumbrata, delineata, &amp; abipſis Apo<g ref="char:EOLhyphen"/>ſtolis conſtabilita,</hi> and that it is an eaſie thing to demonſtrate it.</p>
+               <p>The reaſons why I pitch upon this man rather than another, are theſe; 1. Becauſe he undertakes to prove this <hi>eminency</hi> of power by the <hi>holy Scriptures</hi> [I wiſh all would hold here.] 2. He ſums up all the Arguments that ever I heard for it. 3. He performes his work gravely, ſoberly, like a Chriſtian, a Divine, not filling his Papers with ſuch ſcorns, jeers and bitter Invectives, as the Epiſcopal men have done, who have wrote of late, that a ſober man hath ſcarce patience to read them.</p>
+               <p>For my part, I have beſtowed but very little time in this con<g ref="char:EOLhyphen"/>troverſie, neither have I ſo much as ſeen thoſe who have written moſt largely and elaborately about it, as <hi>Blondel, Salmatius,</hi> nor others: Mr. <hi>Baxter</hi> came to my hand when I had almoſt done, ſo that I have not read him through, but caſt my eye here and there upon him. I wiſh ſome body would anſwer him as ſoberly as he writes; but I think he will never be anſwered. Leaving the Reader to ſuch able men for fuller ſatisfaction, I ſhall communicate my meditations, ſo far I hope, as to prove our Ordination by Pret<g ref="char:EOLhyphen"/>byters to be valid, holding weight in Gods Balance.</p>
+               <p>For thoſe Epiſcopal men who have written of late, with ſuch ſcorn, bitterneſs and confidence, the ſtrongeſt Arguments I find, are theſe:</p>
+               <p n="1">
+                  <pb n="3" facs="tcp:119312:6"/>1. <hi>Thus it hath been for fifteen hundred years, before</hi> Calvin <hi>roſe, the Churches had ever Biſhops; name the Church that had not:</hi> Thus theſe Brethren think, <hi>à facto ad jus, valet conſequentia</hi> undenia<g ref="char:EOLhyphen"/>bly.</p>
+               <p n="2">2. <hi>The Fathers who lived in the Primitive times tell us, the Apo<g ref="char:EOLhyphen"/>ſtles did conſtitute Biſhops in ſeveral Cities, as,</hi> Timothy, and Titus, <hi>&amp;c.</hi> This is all their ſtrength.</p>
+               <p>But in ſober words I beſeech you, What kind of Biſhops were fifteen hundred years ago? [if you begin to reckon from the Apoſtles times] Biſhops diſtinct from Presbyters in <hi>Power</hi> and <hi>Of<g ref="char:EOLhyphen"/>fices</hi> and that by <hi>Divine right?</hi> Verily you fall ſhort in proving it. Or were they ſuch Biſhops that extended their power for forty miles ſpace or more, over many hundred Presbyters, and over many hundred thouſand of perſons, whom they never ſaw? I be<g ref="char:EOLhyphen"/>ſeech you name us ſuch Biſhops in the three or four firſt Centuries, elſe you know what Biſhops do not anſwer. I have read in a Learn<g ref="char:EOLhyphen"/>ed Author, that in <hi>Auguſtines</hi> time, there were in <hi>one</hi> Province under <hi>Carthage,</hi> of the <hi>Catholicks</hi> and <hi>Donatiſts,</hi> above nine hun<g ref="char:EOLhyphen"/>dred Biſhops, the Author ſums up how many of each; ſurely theſe Biſhops did not extend their power much further than ſome great Pariſhes in ſome Countreys
+<note n="*" place="margin">Suppoſe <hi>Lan<g ref="char:EOLhyphen"/>caſhire.</hi>
+                  </note>, or ſome ſuch Towns as <hi>Ipſwich, Briſtol, Colchester,</hi> &amp;c. If you will have ſuch Biſhops, and give them no more power than Chriſt hath given them, for <hi>Order ſake</hi> I will yield to them, and give them the <hi>Honour,</hi> and if more maintenance be conferred upon them by the King, than other Presbyters who joyn with them, I ſhall be very willing and glad of it. So that I am not againſt an Imparity in <hi>honour</hi> nor <hi>mainte<g ref="char:EOLhyphen"/>nance,</hi> neither would I be in <hi>power</hi> and <hi>office,</hi> if Chriſt had given more to them than others.</p>
+               <p>As to the <hi>Second,</hi> I do honour the <hi>Fathers</hi> in their places. 1. <hi>Scri<g ref="char:EOLhyphen"/>pture.</hi> 2. <hi>Sound Reaſon.</hi> 3. <hi>Fathers</hi> or Antiquity.</p>
+               <p>But yet I cannot yield that St. <hi>Paul</hi> and <hi>Ignatius,</hi> St. <hi>Peter</hi> and <hi>Chryſoſtome,</hi> ſhould be of equal authority; I am ſure you make them but very little different, if any thing leſs, as will appear af<g ref="char:EOLhyphen"/>ter.</p>
+               <p>I am not a man verſed in the Fathers as others are, yet ſome of them (the moſt ancient) I have read, and in them I find ſo ma<g ref="char:EOLhyphen"/>ny ſtrange humane mixtures in the Worſhip of God, that I can<g ref="char:EOLhyphen"/>not yield to this conſequence, <hi>The Fathers ſay it, or did it,</hi> ergo, <hi>It
+<pb n="4" facs="tcp:119312:7"/>is lawful:</hi> Much leſs in this controverſie, finding what the holy Ghoſt hath foretold of an Antichriſt that ſhould ariſe, whom out Godly Biſhops before, and Learned <hi>Whitaker,</hi> with others, have thought and proved to be the Biſhop of <hi>Rome,</hi> though Dr. <hi>Ham<g ref="char:EOLhyphen"/>mond</hi> and our latter Epiſcopal Divines, will not have it ſo: <hi>We fear, we fear,</hi> &amp;c. [What a pitiful interpretation hath D. <hi>Hum.</hi> made of 2 <hi>Theſ.</hi> 2. and ſo of ſeveral places of the <hi>Revelation,</hi> to the end the Biſhop of <hi>Rome</hi> might be ſpared.] But following worthy Biſhops, and the Learned and holy Divines, in their judgment of that Biſhop of <hi>Rome,</hi> I am not ſo much carried with the ſayings not practiſes of theſe ancient Biſhops in this point, for there muſt be ſome preparation made to his riſing into that uſurped Chair, he came not there <hi>perſaltum.</hi>
+               </p>
+               <p>To theſe Divines let me propound theſe queſtions.</p>
+               <p n="1">1. <label type="milestone">
+                     <seg type="milestoneunit">Quest. </seg>
+                  </label> Whether are not the Holy Scriptures the <hi>perfect</hi> and <hi>only</hi> Rule for our Faith and Manners? Are they not able to Make a <hi>man of God</hi> (a Miniſter) <hi>perfect?</hi> 2 Tim. 3 17. If they be, I be<g ref="char:EOLhyphen"/>ſeech you let us give more honour to them in theſe Controver<g ref="char:EOLhyphen"/>ſies.</p>
+               <p n="2">2. Were thoſe Fathers and Churches you ſo much mention, ſo guided, that they could not, or did not erre? Were not the holy Scriptures a Rule to them as well as to us? Erre they did in ſome points I am ſure.</p>
+               <p n="3">3. Will the Lord judge us at that great day by theſe <hi>Fathers?</hi> Will it be a ſufficient anſwer to give the Lord, if we ſin in ſetting up <hi>Humane Inventions</hi> in his Worſhip, to ſay, Lord, <hi>thus the Fa<g ref="char:EOLhyphen"/>thers ſaid, thus they did;</hi> Dare you ſay it is ſufficient to excuſe us?</p>
+               <p>I beſeech you then, Reverend Brethren, Why do you preſs us ſo much with theſe men, and with Antiquities, and not ſtick to pure Antiquity, the <hi>holy Scriptures:</hi> Bleſſed <hi>Auguſtine</hi> (whom I ſo much honour and love of all the Fathers) knew how to value <hi>Cyprian</hi> enough,
+<note place="margin">
+                     <hi>Aug. tom.</hi> 7. <hi>pag.</hi> 240.390 <hi>F<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>b.</hi>
+                  </note> but when <hi>Creſconius</hi> or other <hi>Donatiſts,</hi> would bring any thing out of him, to prove what <hi>Auguſtin</hi> judged an er<g ref="char:EOLhyphen"/>rour, he knew how to ſet the Scri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tures and Apoſtles above him. So doth <hi>Cyprian</hi> ſharply ſpeak againſt thoſe who brought <hi>Tradition</hi> for their proof; <hi>qua iſta obstinatio, qua preſumptio, humanam tra<g ref="char:EOLhyphen"/>ditionem divine diſpoſitîoni anteponere, &amp;c? <g ref="char:V">Ʋ</g>nde iſta traditio? <g ref="char:V">Ʋ</g>trumne de dominica &amp; evangelica auctoritate deſcendens,</hi>
+                  <note place="margin">
+                     <hi>Ep</hi> 74.</note> &amp;c? So
+<pb n="5" facs="tcp:119312:7"/>
+                  <hi>Tertullian. Non recipio quod extra Scripturam de two infert. Bellar<g ref="char:EOLhyphen"/>mine</hi> ſaith enough, <hi>Patrum ſcripta non ſunt regula, nec habent autho<g ref="char:EOLhyphen"/>ritatem obligandi.</hi>
+               </p>
+               <p>To the Scriptures then let us go, which ſpeak ſo clear in this controverſie, that all men, even the Papiſts, who call thoſe men <hi>Hereticks,</hi> that deny this ſuperiority of Biſhops, yet are forced to yield it, that in the Apoſtles time, the <hi>Biſhop</hi> and <hi>Presbyter</hi> were the ſame. Let <hi>Cajetan's</hi> interpretation be heard, upon <hi>Tit.</hi> 1.5, 7. <hi>
+                     <g ref="char:V">Ʋ</g>bi adverte eundem gradum, idemquè officium ſignificari à Paulo, nomine Presbyteri &amp; nomine Epiſcopi;</hi> as croſs to Biſhop <hi>Davenant</hi> as can be, <hi>Anſelm</hi> the Archbiſhop of <hi>Canterbury,</hi> in his Com<g ref="char:EOLhyphen"/>ment upon the ſame verſes, brings all <hi>Hierons</hi> Comment, where he proves Biſhops and Presbyters to be the ſame, and no way op<g ref="char:EOLhyphen"/>poſeth it. <hi>Eſtius,</hi> who in the beginning of his Diſputation, calls them Hereticks, who will not yield the ſuperiority of Biſhops, and that <hi>jure divino,</hi> in the midſt of his Diſputation, hath theſe words, <hi>Quod autem jure divin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſint Epiſcopi Presbyteris ſuperiores,
+<note place="margin">
+                        <hi>Senten. l.</hi> 4. <hi>d.</hi> 24. <hi>S.</hi> 25.</note> etſi non ita clarum eſt è ſaoris literis, aliunde ramen ſatis efficaciter probari poteſt; probatur tam ratione, quàm teſtimoniis veterum.</hi> It ſeems then the Scriptures are not clear enough to prove this ſuperiority, in his opinion; and which is divinely ſpoken, though he could not prove the <hi>divine right</hi> of this Superiority out of the Scriptures, yet he would prove it by reaſon and teſtimonies of Ancients: Had a Presbyterian written thus, he ſhould have been ſcorned to pur<g ref="char:EOLhyphen"/>poſe.</p>
+               <p>Take the Papiſts again, in their <hi>I. C. diſt.</hi> 60. <hi>Sacres Ordines dicimus, Diaconatum &amp; Preſbyteratum, hos enimſolos primitiva legitur habuiſſe Eccleſia.</hi> According to theſe then, your Antiqui<g ref="char:EOLhyphen"/>ty for Epiſcopacy muſt not go ſo high as the Primitive Church. One more Papiſt, and I have done with them: I find <hi>Greg. de Valen.</hi>
+                  <note place="margin">
+                     <hi>De Sacr. Ord. diſp.</hi> 9. <hi>q.</hi> 1. <hi>p.</hi> 2.</note> quoting of <hi>Michael Medina</hi> (one of their own) affirming that <hi>Hierem,</hi> and all the Fathers he had named before, which were <hi>Anguſtin, Ambroſe, Chryſoſtom, Primaſius, Theophylact</hi> and <hi>Otcumenius, fuiſſe planè in errore</hi> Acrii, but the Church did not condemn this errour in them, but bare with them, becauſe they were otherwiſe orthodox, but did condemn it in <hi>Acrius,</hi> being otherwiſe <hi>in multis nominibus hareticus.</hi> Then it ſeems <hi>Acrius,</hi> who was againſt this Superiority by divine right, had theſe wor<g ref="char:EOLhyphen"/>thy men in that point to agree with him, in <hi>Medina's</hi> judgment,
+<pb n="6" facs="tcp:119312:8" rendition="simple:additions"/>with whom <hi>Valentia</hi> is not pleaſed.</p>
+               <p>To conclude (as to Teſtimonies) Learned and Sober <hi>Jewel,</hi> (a Jewel indeed) in his <hi>defence</hi> againſt <hi>Harding,</hi> p. 101, 202. quoting teſtimonies out of <hi>Hierom, Ambroſe, Auguſtin,</hi> concludes that <hi>by the Scriptures of God, a Biſhop and Preſbyter are all one:</hi> thus this Reverend Biſhop. I wonder theſe Teſtimonies ground<g ref="char:EOLhyphen"/>ed alſo on Scripture, could not moderate our Brethrens heat in this controverſie. We hope Presbyterial Ordination will not be ſo contemptible at laſt.</p>
+               <p>I have but one thing to add; and it is conſiderable, the <hi>Syri<g ref="char:EOLhyphen"/>ack</hi> Tranſlation, which is ſo ancient, that in time it came near the Original, and is thought by ſome to have been made in the time of the firſt <hi>Antiochian</hi> Chriſtians, do not uſe two words, one for Biſhop, and another for Presbyter, as our Tranſlation and the Greek, but it hath only the word which ſignifies a <hi>Presbyter,</hi> [un<g ref="char:EOLhyphen"/>leſſe in one place] <hi>Tit.</hi> 1.5, 7. For a <hi>Presbyter muſt be blameleſs,</hi> So 1 <hi>Tim.</hi> 3.1. <hi>If a man deſire the Office of a Presbyter.</hi> V. 2. <hi>A Presbyter then muſt be blameleſs.</hi> So in <hi>Phil.</hi> 1.1. <hi>With the Pres<g ref="char:EOLhyphen"/>byters and Deacons.</hi> In <hi>Acts</hi> 20.28. There it alters, the word is originally Greek, the ſame with <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, only it hath a <hi>Syriac</hi> termination, being <hi>Nomen plurale emphaticum in prima Declinati<g ref="char:EOLhyphen"/>one.</hi> In 1 <hi>Pet.</hi> 2. <hi>ult.</hi> Where <hi>Biſhop</hi> is referr'd to Chriſt, there it hath another word.</p>
+               <p>Now this to me carries ſtrong proof that this diſtinction of Bi<g ref="char:EOLhyphen"/>ſhop and Presbyter, was unknown, when that Tranſlation was made, for there is not ſo much as any different names, but Presbyter is the only word. Whether any have taken notice of this before, I know not.</p>
+               <p>And though ſome ſay, that it is a <hi>Trite Argument,</hi> that is drawn from the words Presbyter and Biſhop, being uſed promiſcu<g ref="char:EOLhyphen"/>ouſly, yet it is ſuch an Argument as hath ſo much ſtrength in it, that it was never anſwered. We uſe to ſay that <hi>Nomina ſunt re<g ref="char:EOLhyphen"/>rum notae &amp; ſymbola,</hi> whence if the ſame perſons are called Presby<g ref="char:EOLhyphen"/>ters or Biſhops, ſurely their power cannot be diſtinct. Officers are known by their names, and diſtinct Officers by diſtinct names in ſome places in the Scripture, though in others they may have a general name common to others: Though <hi>Paul</hi> in one place calls himſelf a <hi>Miniſter,</hi> and <hi>Peter</hi> an <hi>Elder,</hi> yet in other places we find they are called Apoſtles: So the Officers have their diſtinctions,
+<pb n="7" facs="tcp:119312:8"/>
+                  <hi>Apoſtles, Prophets, Evangeliſts, Paſtors</hi> and <hi>Teachers,</hi> Eph. 4.11. But Presbyter and Biſhop are never thus differenced, no not in the Epiſtles to <hi>Timothy</hi> and <hi>Titus,</hi> where of all places they ſhould have been, if in thoſe Epiſtles the Apoſtle lay the foundation of Epiſcopacy (as ſay our Brethren) but there they are the ſame, as is plain to ſee, and confeſſed by the <hi>Fathers, Papiſts</hi> and <hi>Prote<g ref="char:EOLhyphen"/>ſtants.</hi> Yea and beſides the ſame Names, what qualifications are required of one, are required of the other, the ſame work is en<g ref="char:EOLhyphen"/>joyned both, <hi>Acts</hi> 20.28. 1 <hi>Pet.</hi> 5.1, 2. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. The ſame <hi>Names,</hi> the ſame <hi>Qualifications,</hi> the ſame <hi>Charge,</hi> con<g ref="char:EOLhyphen"/>clude the ſame <hi>Function.</hi> How then Reverend <hi>Davenant</hi> comes to find this <hi>eminency of power</hi> to be given and confirmed by the Apo<g ref="char:EOLhyphen"/>ſtles, let us now conſider.</p>
+               <p>His firſt Argument is taken from the Jewiſh Church, thus,
+<label type="milestone">
+                     <seg type="milestoneunit">Arg. </seg>1</label>
+               </p>
+               <p>
+                  <hi>God appointed the High Prieſt ſuperiour in authority over the Prieſts, and the Prieſts over the Levites:</hi> Ergo,</p>
+               <p>
+                  <hi>The like order is to be ſtabliſhed in the Chriſtian Church.</hi>
+               </p>
+               <p>To which I Anſwer,</p>
+               <p n="1">1. There <hi>was</hi> and <hi>is</hi> ſtill ſuperiority of Officers in the Chriſtian Church; there <hi>was</hi> when there were <hi>Apoſtles, Prophets,
+<label type="milestone">
+                        <seg type="milestoneunit">Anſw. </seg>
+                     </label> Evange<g ref="char:EOLhyphen"/>liſts, Pastors,</hi> &amp;c. there <hi>is now</hi> the Preaching Elder above the Ru<g ref="char:EOLhyphen"/>ling Elder, and the Ruling Elder above the Deacon. But he means amongſt the Preaching Elders; then I anſwer,</p>
+               <p n="2">2. This Argument will better prove a <hi>
+                     <g ref="char:V">Ʋ</g>niverſal</hi> Biſhop,
+<note place="margin">
+                     <hi>Bellar. de Rom. Pont l.</hi> 1. <hi>c.</hi> 9.</note> than a <hi>Dioceſan</hi> Biſhop, and is uſed by <hi>Bellarmine</hi> for the ſame purpoſe, it is his third reaſon; the Jewiſh Church had not hundreds of High Prieſts that met at one time, as there hath been of Biſhops in one Synod, ſo that all the Catholick Church viſible muſt have one Catholick Biſhop, elſe his Argument is loſt.</p>
+               <p n="3">3. The High Prieſt being properly a Type of Chriſt, the moſt eminent Type, is not ſufficient to make an argument here.</p>
+               <p n="4">4. Why not as well <hi>one Temple,</hi> though many Synagogues, if he will needs argue from the Jews, but we have more than one Ca<g ref="char:EOLhyphen"/>thedral in Chriſtendom.</p>
+               <p n="5">5. Chriſt the Builder of that houſe then, hath built his houſe now under the Goſpel: Why ſhould we look back to that old building which in this ſenſe is pulled down. Obſerve how diffe<g ref="char:EOLhyphen"/>rently
+<pb n="8" facs="tcp:119312:9"/>he builds, there he ſet up no Officer, but all the Officers continued ſo long as that polity continued, but here his chief Of<g ref="char:EOLhyphen"/>ficers were but for a ſhort time, ſo that you ſee he makes a vaſt difference in the building. Alſo the Deacon was properly ap<g ref="char:EOLhyphen"/>pointed to ſerve Tables, to regard the poor: Were there Dea<g ref="char:EOLhyphen"/>cons for the poor amongſt the Jews?</p>
+               <p n="6">6. Had the Dr. mentioned the Heads of the 24 Orders of Prieſts appointed by <hi>David,</hi> which ſome ſay, were called <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, the Hebrews called them <hi>Roſhe aboth,</hi> the chief of the Family, there had been more likelihood of an Argument, and it is likely we ſhould have yielded as much now to the Miniſters of the Goſpel, if we were certain what the Head of the Order had more than the other Prieſts of that Order, which was not eminency of power and of<g ref="char:EOLhyphen"/>fice ſure enough.</p>
+               <p>His ſecond Argument is taken from Chriſt in the new Teſtament,
+<label type="milestone">
+                     <seg type="milestoneunit">Arg. </seg>2</label> 
+                  <hi>Who appointed Twelve Apostles, ſuperiour not only in gifts, but in amplitude of Authority and Power to the Seventy Diſciples, Now Biſhops are the Succeſſors of the Apoſtles, and Presbyters of the Se<g ref="char:EOLhyphen"/>venty.</hi>
+               </p>
+               <p>This Argument I ſee is much inſiſted upon by others,
+<label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> let us try the ſtrength of it. I Anſwer,</p>
+               <p n="1">1. Had the Apoſtles ſhewn any of that power and authority in the <hi>miſſion</hi> of the Seventy, there had been ſome probability in this Argument, but there was not the leaſt appearance of any ſuch thing, the Seventy had their Miſſion as <hi>immediatly</hi> from Chriſt, as had the Apoſtles, they contributing nothing towards it. But our Biſhops tell us, our <hi>ſending</hi> depends upon them, we can be no Presbyters without them, ſo that they will be ten times more ſu<g ref="char:EOLhyphen"/>periour than the Apoſtles.</p>
+               <p n="2">2. As there was no difference in their <hi>Miſſion,</hi> ſo neither in their <hi>Commiſſion.</hi> Read both their Commiſſions and you find the ſame; <hi>Preach the Gospel, Heal the ſick, Cuſt out Devils</hi> &amp;c. Bi<g ref="char:EOLhyphen"/>ſhops then and Presbyters have the ſame Commiſſion and Miſſion: <hi>Agreed.</hi>
+               </p>
+               <p n="3">3. That Biſhops are the Succeſſors of the Apoſtles, <hi>Bellarmine</hi> ſaith but <hi>impropriè:</hi> Had the Dr. drawn his Argument into form, I think I ſhould have found a Fallacy in the Syllogiſm. Limit he
+<pb n="9" facs="tcp:119312:9"/>muſt; then tell us how he can prove the Apoſtles were ſuperiour to the Seventy in the power of Ordination and Juriſdiction, ſo that the Seventy had not this Power: For if the Seventy had this pow<g ref="char:EOLhyphen"/>er alſo, we are well enough, but this he cannot prove: Beſides, to ſay, though the Biſhops be not the Succeſſors of the Apoſtles in all things, yet they are in Ordination and Juriſdiction, is but the begging of the queſtion.</p>
+               <p n="4">4. Biſhops are the Succeſſors of the Apoſtles, but let the Bi<g ref="char:EOLhyphen"/>ſhop in the queſtion be <hi>Ens</hi> firſt, which we cannot find in divine Writ.</p>
+               <p n="5">5. How proves he this, that Biſhops are the Apoſtles Succeſ<g ref="char:EOLhyphen"/>ſors, and Presbyters of the Seventy, and not of the Apoſtles? This is his proof, it is <hi>omnium ferè patrum conſtans doctrina.</hi> Had he ſaid <hi>unius Apoſtoli,</hi> it had prevailed much more with me. We are ſeeking for <hi>jus divinum,</hi> but he mentions ſome Fathers, and thoſe not the moſt ancient neither. But have none ofthe Fathers ſaid that Presbyters are the Succeſſors of the Apoſtles alſo? Hath <hi>Irenaeus</hi> nothing to that purpoſe? the two Jeſuits <hi>Bellarm</hi> and <hi>Greg.
+<note place="margin">
+                        <hi>Lib.</hi> 3. <hi>cap.</hi> 2. <hi>Lib.</hi> 4. <hi>cap.</hi> 23.</note> de Val.</hi> are ſo kind to us to tell us they have ſaid ſo.</p>
+               <p>I ſee the Dr. adds a Scripture at the bottom of the Paragraph, 1 <hi>Cor.</hi> 12.28, 29. But ſurely this makes nothing to the proof of Epiſcopal ſucceſſion. <hi>Are all Apostles? are all Prophets? are all Teachers?</hi> I think this Text he brings will pluck up this Epiſco<g ref="char:EOLhyphen"/>pacy by the roots: <hi>God hath ſet in his Church,</hi> Where ſhall we find the Biſhop in queſtion <hi>ſet?</hi> not among the <hi>Apoſtles</hi> I hope, not among the <hi>Prophets,</hi> then it muſt be among the <hi>Teachers,</hi> ſo the Text, <hi>thirdly Teachers,</hi> but are not Presbyters <hi>Teachers?</hi> Well met honoured Dr.</p>
+               <p n="6">6. The Apoſtle <hi>Peter,</hi> 1 Ep. c 5. v. 1. Writing to the <hi>Presby<g ref="char:EOLhyphen"/>ters,</hi> calls himſelf a <hi>Presbyter:</hi> Had the Apoſtle written thus, <hi>The Biſhops which are among you I exhort, whs alſo am a Biſhop,</hi> this would have been cried up for an invincible Argument to prove that Biſhops were the Apoſtles Succeſſors, for he writes to Bi<g ref="char:EOLhyphen"/>ſhops, and calls himſelf a Biſhop. Gentlemen, give us fair play I beſeech you, the Argument is ours, to prove Presbyters are the Succeſſors of <hi>Peter</hi> the Presbyter.</p>
+               <p>To ſay the Apoſtles and Seventy were extraordinary Officers, and ſo we cannot draw any thing from them, there may be ſom<g ref="char:EOLhyphen"/>thing in it, but I add no more.</p>
+               <pb n="10" facs="tcp:119312:10"/>
+               <p>His third Argument is,
+<label type="milestone">
+                     <seg type="milestoneunit">Arg. </seg>3</label> 
+                  <hi>The Apoſtles before they paſſed from earth to Heaven, did conſtitute in great Cities one Biſhop, ſuperiour not on<g ref="char:EOLhyphen"/>ly over the Laicks, but alſo the Presbyters; as</hi> James <hi>in</hi> Jeruſalem, Timothy <hi>at</hi> Epheſus, Titus <hi>in</hi> Creet, <hi>&amp;c.</hi>
+               </p>
+               <p>I hope he takes <hi>Biſhop</hi> properly,
+<label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> as we intend in the queſtion, elſe he deceives us. I Anſwer,</p>
+               <p n="1">1. Why did not the Apoſtle <hi>Paul</hi> or ſome other Apoſtle con<g ref="char:EOLhyphen"/>ſtitute ſuch a Biſhop in <hi>Gorinth</hi> before his departure? I am ſure <hi>Corinth</hi> was none of the leaſt Cities: His Epiſtles to <hi>Corinth</hi> men<g ref="char:EOLhyphen"/>tion no ſuch thing, and that is much if there were one. <hi>Paul</hi> wrote to them <hi>Anno</hi> 52, as <hi>Buchol.</hi> and <hi>Alſted.</hi> Or about 54, as Dr. <hi>Hammond.</hi> When <hi>Clemens</hi> wrote his Epiſtle to them is un<g ref="char:EOLhyphen"/>certain, ſaith Learned Mr. <hi>Young,</hi> but he ſuppoſeth, not before his baniſhment, which was two years before his Martyrdom, and gives his reaſons for his opinion; he ſuffered Martyrdom in the third year of <hi>Trajan, Anno</hi> 103. ſaith <hi>Sixtus Senenſis:</hi> Hence then almoſt fifty years paſſed between the Epiſtles of <hi>Paul</hi> and <hi>Cle<g ref="char:EOLhyphen"/>mens</hi> to the <hi>Corinthians, Clemens</hi> p. 8. mentions <hi>Pauls</hi> Martyr<g ref="char:EOLhyphen"/>dom, but in all his Epiſtle there is not one word to ſhew that there was ſuch a Biſhop in his time, for in the winding up his Epiſtle, <hi>p.</hi> 73. he exhorts them, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, it ſhould have been <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, but not a word of ſuch a Biſhop, whom <hi>Clemens</hi> would not have forgotten had he been there. This Epiſtle is the moſt pure piece of all Antiquity, next the Scriptures.</p>
+               <p n="2">2. Is the Dr. ſure that all thoſe he mentions were Biſhops <hi>pro<g ref="char:EOLhyphen"/>priè dicti,</hi> he ſaith indeed afterward, <hi>p.</hi> 195. <hi>Certum eſt Timotheum, Titum, Jacobum, multosquè alios propriè dictos Epiſcopos fuiſſe vi<g ref="char:EOLhyphen"/>ventibus Apoſtolis,</hi> &amp;c. yet adds in the concluſion, <hi>quaſi affixos.</hi> Well then <hi>certum eſt,</hi> but how I pray, <hi>certitudine fidei divinae?</hi> elſe 'tis not certain to us in this controverſie, I regard not mens words without Scripture: but what mean theſe words <hi>quaſi affixos,</hi> this <hi>quaſi</hi> ſpoils the certainty, for if but <hi>quaſi affixi,</hi> they were but <hi>quaſi Epiſ<g ref="char:EOLhyphen"/>copi,</hi> as I could ſoon prove from the Scriptures, and the Canons of Councils.</p>
+               <p>I wonder the Dr. ſhould ſay, that <hi>James</hi> was the Biſhop of <hi>Je<g ref="char:EOLhyphen"/>ruſalem,</hi> and that <hi>propriè dictus.</hi> I ſee <hi>Lapide</hi> and <hi>Lorinus</hi> giving that the reaſon why <hi>James</hi> ſpake next to <hi>Peter,</hi> becauſe <hi>James</hi> was Biſhop of <hi>Jeruſalem,</hi> where the Council was held: But,</p>
+               <p n="1">
+                  <pb n="11" facs="tcp:119312:10"/>1. He was an Apoſtle, one of the Pillars, <hi>Gal.</hi> 2.9. whoſe ſen<g ref="char:EOLhyphen"/>tence in this queſtion ſwayed the Synod, but to have an Apoſtle a Biſhop in our ſenſe is ſtrange: Had the Dr. forgot that on this ground our Divines againſt the Papiſts prove that <hi>Peter</hi> could not be Biſhop of <hi>Rome,</hi> becauſe he was an Apoſtle, and ſo not fixed.</p>
+               <p n="2">2. If <hi>James</hi> were a Biſhop, why had he not his Title given him in <hi>Acts</hi> 15? For in <hi>v.</hi> 4, 6, 23. we have mention made of Apoſtles and Presbyters, but not a word of a Biſhop, this is very far from this <hi>certainty:</hi> 'Tis certain indeed he was no Biſhop.</p>
+               <p>As for <hi>Timothy</hi> and <hi>Titus,</hi> there hath been a huge ſtir about theſe: I have heard that Mr. <hi>Prin</hi> hath written a Treatiſe, which he cals the <hi>unbiſhopping of Timothy and Titus,</hi> and that ſo ſtrongly, that as none yet ever went about to anſwer him, ſo none can: I could never ſee the Book, but refer the Reader to him. I ſhall be the briefer.</p>
+               <p>I ſee ſome Divines prove that <hi>Paul</hi> did conſtitute <hi>Timothy</hi> Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Epheſus,</hi> becauſe he ſaid, 1 <hi>Tim.</hi> 1.3. <hi>As I beſought thee to abide ſtill at</hi> Epheſus. [Strange that a Biſhop of a place ſhould be <hi>beſought</hi> to ſtay in his Biſhopprick.] And <hi>Titus</hi> becauſe he ſaid, <hi>Chap.</hi> 1.5. <hi>For this cauſe I left thee in</hi> Crete. I pray caſt theſe two Texts into Syllogiſms, and let us ſee how invincibly <hi>Timothy</hi> and <hi>Titus</hi> come out Biſhops of thoſe places in the Concluſions. Could not <hi>Timothy</hi> ſtay at <hi>Epheſus</hi> to oppoſe hereſies and ordain with others [or if not with others] Miniſters, and <hi>Titus</hi> left at <hi>Crete,</hi> to do the ſame, but it muſt follow neceſſarily, <hi>Ergo,</hi> they were conſtitued fixed Biſhops of thoſe places.</p>
+               <p>
+                  <hi>But the Fathers ſay they were Biſhops; that's a proof,</hi> not ſufficient to make <hi>jus divinum.</hi> The Papiſts and Dr. <hi>Hammond</hi> ſay, they were <hi>Archbiſhops:</hi> both alike for truth.</p>
+               <p>Do the Fathers ſpeak properly when they ſay ſo? It was the ſaying of a great Biſhop, that <hi>Hiſtories are not curious in calling men by their Ti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>les.</hi> Sure I am that <hi>Paul</hi> gives him another title, of which preſently.</p>
+               <p>If the Fathers did ſo, might they not be deceived with the ſub<g ref="char:EOLhyphen"/>ſcriptions of the Epiſtles? which this Learned Dr. meddles not with, knowing they were not <hi>Canonical.</hi>
+               </p>
+               <p>Name I pray the moſt ancient <hi>Fathers,</hi> and tell us if they call theſe ſo in your ſenſe. Sure I am that <hi>Ignatius</hi> cals <hi>Timothy</hi> a Dea<g ref="char:EOLhyphen"/>con,
+<pb n="12" facs="tcp:119312:11"/>and joynes <hi>Linus</hi> with him, <hi>Epiſt. ad Tral. p.</hi> 71.</p>
+               <p>But what if the <hi>Fathers</hi> call them ſo, if I find ſtrong grounds in Holy Scripture to make me believe, they were of a higher order than ordinary Officers, if a hundred <hi>Fathers</hi> ſay they were ordinary Biſhops, I regard them not. Searching the Scriptures, we find for <hi>Timothy,</hi> that,</p>
+               <p n="1">1. He is often joyned with <hi>Paul</hi> in the Inſcription of his Epiſtles, as <hi>Phil.</hi> 1.1. <hi>Col.</hi> 1.1. 1. <hi>Theſ.</hi> 1. &amp; 2 <hi>Theſ.</hi> 1. <hi>Philem.</hi> 1.</p>
+               <p n="2">2. We find him journeying with <hi>Paul,</hi> and ſent up and down by <hi>Paul.</hi>
+               </p>
+               <p n="3">3. He is bidden to do the work of an <hi>Evangeliſt,</hi> 2 Tim. 4.5. Now though <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> is taken largely, yet, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, which is uſed but thrice in the New Teſtament, is never taken but for a peculiar Officer. He was one of thoſe <hi>Paul</hi> mentions <hi>Eph.</hi> 4.11. To confine the word <hi>Evangeliſts</hi> to thoſe who wrote the <hi>Goſpels,</hi> is abſurd: <hi>Matthew</hi> and <hi>John</hi> I hope were Apoſtles, and <hi>Philip</hi> was an Evangeliſt, <hi>Acts</hi> 21.8. yet wrote no Goſpel. If he were no Evangeliſt, but bidden to do the work of one this is ſtrange; an inferiour order do the work of a ſuperiour: However I hope by this Presbyters may ordain as well, though they be of an inferiour Order. But if <hi>Timothy</hi> muſt do the work of an Evangeliſt, he muſt not fixe at <hi>Epheſus.</hi>
+               </p>
+               <p>No more fixed at <hi>Crete</hi> was <hi>Titus,</hi> though for a time left at <hi>Crete.</hi> In 2. <hi>Cor.</hi> 8.23. <hi>Paul</hi> cals him his <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, and his <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, words ſutable to an Evangeliſt, ſent up and down by <hi>Paul,</hi> as we may obſerve in the Epiſtles, and journeying with <hi>Paul.</hi> After he was at <hi>Crete, Paul</hi> ſends to him to <hi>Nicopolis, Tit.</hi> 3.12. which was ſix hundred miles diſtant from <hi>Crete,</hi> as <hi>Bunting</hi> ſaith, <hi>p.</hi> 566. How long he ſtayed with him, or whither he went next, I find not. But towards the end of <hi>Pauls</hi> life, 2 <hi>Tim.</hi> 4.10, 11. he was at <hi>Rome</hi> with <hi>Paul,</hi> and by <hi>Paul</hi> ſent to preach in <hi>Dalmatia,</hi> ſaith <hi>Lapide.</hi> How theſe things ſute with a Biſhop in our ſenſe I know not: Hence <hi>Junius, Zanchy, Polanus, Beza, Calvin, Diodati,</hi> and the <hi>Lutherans</hi> conclude him to be an Evangeliſt.</p>
+               <p>As for Evangeliſts, <hi>Enſebius</hi> will give us ſome light to un<g ref="char:EOLhyphen"/>derſtand them, <hi>Eccleſ. Hiſt. lib.</hi> 3. <hi>cap.</hi> 37. He ſpeaks of divers then, <q>who obtained the firſt ſtep of Apoſtolical ſucceſſion, and being as divine Diſciples of the chief and principal men, builded the Churches every where planted by the Apoſtles, <hi>&amp;c.</hi> Taking their
+<pb n="13" facs="tcp:119312:11"/>journey fulfilled the work and office of <hi>Evangeliſts, that is,</hi> they preached Chriſt unto them, which as yet heard not of the Do<g ref="char:EOLhyphen"/>ctrine of Faith: Theſe men having planted the Faith in ſundry new and ſtrange places, ordained there other Paſtors, commit<g ref="char:EOLhyphen"/>ting unto them the tillage of the new ground, paſſing themſelves unto other people and Countries, being holpen thereunto by the Grace of God, which wrought with them; for as yet by the power of the Holy Ghoſt they wrought miraculouſly, ſo that in<g ref="char:EOLhyphen"/>numerable multitude of men embraced the Religion of the Al<g ref="char:EOLhyphen"/>mighty, <hi>&amp;c.</hi>
+                  </q> Thus <hi>Euſebius.</hi> If this deſcription of Evangeliſts ſute any, doth it not <hi>Timothy</hi> and <hi>Titus,</hi> who were indeed divine Diſci<g ref="char:EOLhyphen"/>ples of <hi>Paul,</hi> a principal man, ſent up and down by him; and if theſe <hi>wrought miraculouſly,</hi> muſt it be denied of <hi>Timothy</hi> and <hi>Titus:</hi> as for the gift of Tongues, that was alſo needful, for men travelling and preaching in ſo many ſeveral Countreys.</p>
+               <p>I <hi>find ſome forced to yield they were Evangeliſts at firſt, but after<g ref="char:EOLhyphen"/>wards were made Biſhops of theſe places.</hi>
+               </p>
+               <p n="1">1. Was the being made a <hi>Biſhop</hi> a degree above an <hi>Evangeliſt,</hi>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> was an ordinary Officer above an extraordinary Officer? then ſome truth may be in this. I find <hi>Concil. Sard. Can.</hi> 13. that the Biſhop muſt aſcend through all degrees <hi>ad culmen Epiſcopatus,</hi> but what, muſt ſuch eminent men deſcend, be degraded, when as <hi>Ti<g ref="char:EOLhyphen"/>mothy</hi> alſo had a <hi>Propheſie</hi> concerning him, 1 <hi>Tim.</hi> 1.18? believe this who will.</p>
+               <p n="2">2. Was there need of theſe men to be Evangeliſts in <hi>Pauls</hi> life time, and not as much after? Did the Seducers and Wolves ceaſe or decline when <hi>Paul</hi> was gone? <hi>Acts</hi> 20.29. Surely there was more need of being Evangeliſts now than before.</p>
+               <p n="3">3. After that time, when you ſay they were made Biſhops, we find them ſent up and down by <hi>Paul.</hi>
+               </p>
+               <p n="4">4. If ſo, <hi>Titus</hi> had an advantage or honour above <hi>Timothy,</hi> to be made Biſhop of an Iland of 270 miles long, 50 miles in breadth, a hundred Cities (whence called <hi>Hecatompolis</hi>) and not only ſo, but Biſhop of the Ilands adjacent, and <hi>Timothy</hi> to be made Biſhop of one City <hi>Epheſus,</hi> and it may be ſome Villages about there. But Dr. <hi>Hammond</hi> [if he ſpeak truth] will be too hard for me, he tels me <hi>Timothy</hi> was <hi>Metropolitan</hi> of <hi>Aſia:</hi> Then <hi>Timothy</hi> is equal; but take Metropolitan in our ſenſe (elſe he ſaith nothing) as we call ſuch Biſhops, you may believe him, who think him to
+<pb n="14" facs="tcp:119312:12"/>be one who could not erre.</p>
+               <p>But 3. Suppoſe they had been conſtituted thus, yet he hath not proved that they were inveſted with power to do ſuch Acts which Presbyters might not do; which he doth afterwards aſſert indeed, how ſtrongly he proves, I will conſider.</p>
+               <p>For the <hi>Angel</hi> in <hi>Rev.</hi> 2. what force is there in this to prove ſuch a Biſhop, I know not, though taken <hi>individually:</hi> Are not all Miniſters (truly ſuch) <hi>ſent?</hi> then they are <hi>Angels</hi> I think, <hi>Rom.</hi> 10.15.</p>
+               <p>
+                  <hi>But this is Angel,
+<label type="milestone">
+                        <seg type="milestoneunit">Object. </seg>
+                     </label> onely One.</hi>
+               </p>
+               <p>When our King ſent his Letters from <hi>Breda,</hi>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> to the <hi>Speaker of the Houſe of Commons,</hi> did it imply the <hi>Speaker</hi> had more power than other Members? When Chriſt ſends his Letters to this <hi>Angel,</hi> doth it imply more power? The Speaker is there for <hi>Order-ſake,</hi> and it is <hi>honour</hi> to him <hi>&amp;c.</hi> So if you be men ſound in the Faith, holy in your Converſations, Learned and able, fit for the place, I can allow you an Angel of the Church in <hi>London,</hi> in <hi>Ipſwich,</hi> in <hi>Exeter,</hi> &amp;c. So in the Countrey, you ſhall have the Honour and Maintenance, to be our <hi>Speakers;</hi> I have declared my Opinion and Reaſons for this before this turn came; if you will have more, win it by Scripture, and wear it.</p>
+               <p>Thus I have done with all his Arguments for the <hi>jus divinum;</hi> only I might mind him, that Biſhop <hi>Jewel</hi> and <hi>Anſelm,</hi> do ſub<g ref="char:EOLhyphen"/>ſcribe to that of <hi>Jerom, Let Biſhops understand that they are above Prieſts, rather of custom, than of any truth or right of Chriſts Inſtitu<g ref="char:EOLhyphen"/>tion:</hi> And to that of <hi>Auguſtine, The Office of a Biſhop is above the Office of a Prieſt,</hi> not by authority of the Scriptures, but <hi>after the names of honour, which the cuſtom of the Church hath now obtained.</hi> I hope it will ſtill be ſaid, fifteen hundred years Biſhops have been ſuperiour by Divine right. How did <hi>Jeroms</hi> and <hi>Auguſtins</hi> ſen<g ref="char:EOLhyphen"/>tence eſcape the <hi>Index expurgatorius?</hi>
+               </p>
+               <p>Then the Dr. comes to the <hi>Inſignia Epiſcoporum propria.</hi> Let us ſee if he prove theſe alſo by the Apoſtles.</p>
+               <p>His firſt is this;</p>
+               <p>
+                  <hi>That in large and populous Cities, in which were many Presbyters made, the Apoſtles ordained</hi> one only <hi>Biſhop.</hi>
+               </p>
+               <p>For the Biſhop in the queſtion,
+<label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> the Apoſtles were ſo far from ordaining <hi>unicum,</hi> that they ordained <hi>ne unum;</hi> not one Scripture or ſound reaſon brought to prove it</p>
+               <p n="2">
+                  <pb n="15" facs="tcp:119312:12"/>2. That the Apoſtles did ordain but one <hi>Scripture-Biſhop</hi> in a great City, is an aſſertion point-blanck againſt the Scriptures, which ſhew the contrary. Let <hi>Jerom</hi> ſpeak; ſome ſay he was angry, and I know not what, but the Scriptures he produces were not,
+<note place="margin">
+                     <hi>Vide Chemnit. exan. Concil Trid. de Sacr. ord.</hi> p. 224.</note> [<hi>Chemnitius</hi> gives us a better ground for his writing] but thus <hi>Je<g ref="char:EOLhyphen"/>rom, Doth any one think it is our own opinion, and not the ſentence of the Scriptures that a Biſhop &amp; a Presbyter are one? Let him read</hi> Phil. 1.1. <hi>With the Biſhops and Deacons. Philippi is one City of Macedonia, and certainly as Biſhops are now called, there cannot be more than one in one City, but then there were.
+<note place="margin">
+                        <hi>non adverſatur ſacris eloquiis plures in una civitate appel<g ref="char:EOLhyphen"/>lari tunc tempo<g ref="char:EOLhyphen"/>ris Presbyteros ſeu Epiſcopos, ut</hi> Acts 10.</note> Doth it ſtill ſeem doubtful unleſſe it be confirmed by another teſtimony,</hi> then take <hi>Acts</hi> 20.17, He calls them Elders. <hi>v.</hi> 28. calls them Biſhops. <hi>Obſerve diligently, the Elders of one City he cals Biſhops,</hi> then adds, <hi>Heb.</hi> 13.17. Thus he in <hi>Tit.</hi> 1. When in his <hi>Epiſt. ad Evagr.</hi> he had been proving the Identity of Biſhop and Presbyter, from <hi>Phil.</hi> 1. <hi>Tim.</hi> 4. <hi>Tit.</hi> 1. <hi>Pet.</hi> 5. He ſaith to him, <hi>Parva tibi videntur tantorum virorum Teſtimonia?</hi> To us theſe teſtimonies are not ſmall, but more than if a thouſand Biſhops ſay the contrary. What <hi>Jerom</hi> ſaith,
+<note place="margin">
+                     <hi>Cajetan.</hi> Tit. 1.5.</note> 
+                  <hi>poſtea nuns electus,</hi> we regard not, being after the Apoſtles, and yet then not ſuperiour in power; that crept in by degrees.</p>
+               <p>His Second is, <hi>The Right and Power of Ordination, which is de<g ref="char:EOLhyphen"/>nied to inferiour Presbyters,</hi> 1. Tim. 5.22. Tit. 1.5.</p>
+               <p n="1">1. He hath not ſhewn us ſuch a Biſhop as he ſpeaks of,
+<label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> as yet in all the Scripture; how then can this be true?</p>
+               <p n="2">2. If denied to Presbyters, then to Biſhops alſo: for they were both one in theſe Epiſtles to <hi>Timothy</hi> and <hi>Titus. <g ref="char:V">Ʋ</g>nde &amp; ad Titum &amp; ad Timotheum de ordinatione Epiſcopi &amp; Diaconi dicitur:
+<note place="margin">Hieron. ad E vagr.</note> de Presbyteris omnino reticetur, quia in Epiſcopo &amp; Presbyter conti<g ref="char:EOLhyphen"/>netur,</hi> Hieron, ad Evagr.</p>
+               <p n="3">3. Was not <hi>Timothy</hi> himſelf ordained by a Presbytery? 1 <hi>Tim.</hi> 4.14. How then was it denied? The laying on of <hi>Pauls</hi> hands did not de<g ref="char:EOLhyphen"/>ny the laying on their hands.</p>
+               <p n="4">4. According to this, <hi>One</hi> Biſhop alone may ordain, which as it is, 1. Contrary to the Inſtance before in <hi>Timothies</hi> Ordination. So, 2. Contrary to the <hi>Canon</hi> 3. <hi>Concil Carthag.</hi> 4. Where no Biſhop alone muſt impoſe, but Presbyters with him. 3. And contrary to the 35 <hi>Canon</hi> of our <hi>Engliſh</hi> Biſhops. Whence Dr. <hi>Featly</hi> in his <hi>Annotat.</hi> on 1 <hi>Tim.</hi> 4.14. ſaith, <q>
+                     <hi>Timothy</hi> though he were ordained by St. <hi>Paul,</hi> 2 <hi>Tim.</hi> 1.6. yet this Ordination
+<pb n="16" facs="tcp:119312:13"/>was performed in the Aſſembly of the Elders, and with the lay<g ref="char:EOLhyphen"/>ing on of their hands alſo: agreeable whereunto is the Canon of the fourth Council of <hi>Carthage,</hi> and the practiſe of the Church of <hi>England:</hi>
+                  </q> So he. 4. Contrary to <hi>Cyprians</hi> practiſe, <hi>Ep.</hi> 33. Alſo what means the Conſtitution of <hi>
+                     <g ref="char:V">Ʋ</g>rban? Ordinationes factae ſine communi ſenſu clericorum, irritae,</hi> Take alſo the 22 <hi>Canon</hi> of the <hi>Council of Carthage,</hi> before-named; <hi>
+                     <g ref="char:V">Ʋ</g>t Epiſcopus ſine conſilio clericorum ſuorum clericos non ordinet,</hi> &amp;c. Now what is meant by <hi>con<g ref="char:EOLhyphen"/>ſilium,</hi> the 3 <hi>Canon</hi> ſhews: <hi>All the Presbyters preſent were to impoſe hands with the Biſhop.</hi> Much it is, that when we cannot find the Apoſtles did ordain <hi>alone, Paul</hi> had the Apoſtle <hi>Barnabas</hi> with him, <hi>Acts</hi> 14.23. that now a ſingle Biſhop can ordain alone. The Dr. forgat himſelf much, but this power of Ordination and Juriſdicti<g ref="char:EOLhyphen"/>on he had need to prove to reſide as he ſaith, <hi>in illis ſolis,</hi> elſe he hath loſt his cauſe: But ſee how much authority he oppoſeth; what woful miſchief might this ſoon produce to the Church?</p>
+               <p n="5">5. It may as ſtrongly be gathered, that to <hi>preach in ſeaſon and out of ſeaſon</hi> [as do all Biſhops] to <hi>meditate,</hi> to <hi>read,</hi> to <hi>oppoſe</hi> he<g ref="char:EOLhyphen"/>reticks, <hi>&amp;c,</hi> do only belong to Biſhops, becauſe theſe Commands are given (the firſt I am ſure) <hi>only</hi> to <hi>Timothy;</hi> as to gather, be<g ref="char:EOLhyphen"/>cauſe <hi>Timothy</hi> is directed in Ordination how to act, that therefore Presbyters muſt not impoſe hands: Why this proper to him above all the reſt?</p>
+               <p n="6">6. Conſider I pray, that which is added, 1 <hi>Tim.</hi> 5.22. <hi>Neither be partakers of other mens ſins,</hi> whether it may not infer the contra<g ref="char:EOLhyphen"/>ry thus, <hi>Timothy, though other Ministers may be raſh, and not con<g ref="char:EOLhyphen"/>ſider what they do in Ordination, but would ordain unfit, unworthy perſons, yet do not thou lay on hanas ſuddenly, do not thou partake of their ſins, in raſh Ordinations, joyning with them.</hi> A man may par<g ref="char:EOLhyphen"/>take of the ſins of <hi>Ordainers,</hi> as well as of the <hi>Ordained.</hi> I know nothing contrary to the Analogy of Faith, nor to the Context, if that ſenſe be given.</p>
+               <p>Why ſaith the Dr. <hi>Could not the Miniſters of Epheſus ordain be<g ref="char:EOLhyphen"/>fore Timothy arrived, or of Crete before Titus came thither?</hi>
+               </p>
+               <p>I cannot learn but <hi>Titus</hi> went along with <hi>Paul</hi> to <hi>Crete</hi> the firſt time of his preaching there,
+<label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> and having laid the Foundations of Churches, as <hi>Jerom</hi> ſaith, left <hi>Titus</hi> there <hi>ut rudimenta naſcentis Eccleſiae confirmaret, ipſe pergens ad alias Nationes,</hi> &amp;c. But how<g ref="char:EOLhyphen"/>ever,</p>
+               <p n="1">
+                  <pb n="17" facs="tcp:119312:13"/>1. There is a difference between the arrival of Evangeliſts and the Biſhops in queſtion.</p>
+               <p n="2">2. There being abundance of enemies and errours ſpread about, as we ſee, it was the very reaſon why <hi>Paul</hi> beſought <hi>Timothy</hi> to ſtay at <hi>Epheſus,</hi> 1 Tim. 1.3. Theſe men being ſo able and qualified above others, might very well there be leſt for a time, as to op<g ref="char:EOLhyphen"/>poſe the hereſies and errours, ſo to look to the Miniſtry, that none but ſound and able men came into it: but becauſe theſe be<g ref="char:EOLhyphen"/>ing Evangeliſts, were far more able, does it conclude the Presby<g ref="char:EOLhyphen"/>ters had not the <hi>Right</hi> to ordain with them?</p>
+               <p n="3">3. Remember, that <hi>Cajetan</hi> confeſſeth even in theſe Epiſtles, Presbyter and Biſhop ſignifie the <hi>ſame degree</hi> and the <hi>ſame of<g ref="char:EOLhyphen"/>fice.</hi> Had not the Churches been in danger, <hi>Timothy</hi> had not need been there, ſo this denies not their power.</p>
+               <p>The Dr. goes on to prove this ſole power of Ordination from humane Authority.</p>
+               <p n="1">1. From that Saying of <hi>Jerome, Excepta Ordinatione quid facit Epiſcopus quod Preſbyter non faciat?</hi>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label>
+               </p>
+               <p>
+                  <hi>Jerom</hi> ſpeaks <hi>de facto,</hi> the Biſhops had engroſſed this power, but he does not ſay <hi>de jure,</hi> it ought to be ſo, for he had ſtrongly proved the Biſhop and Presbyter from ſeveral Scriptures to be the ſame.</p>
+               <p n="2">2. It ſhould ſeem it was not a univerſal Cuſtom: For it was one great complaint againſt <hi>Chryſostom</hi> (ſaith Biſh. <hi>Downam</hi>) that he made Ordinations without the Presbytery: And in the year 398, about which time <hi>Chryſoſtom</hi> flouriſhed, that fourth Council of <hi>Carthage,</hi> which oppoſeth Biſhops ſole power of Ordination, was held. However this is but humane.</p>
+               <p n="2">2. He brings in the example of one <hi>Colythus</hi> a Presbyter of <hi>Alexandria, who ordained Presbyters, but their Ordination was made void, and the Ordained returned into the Order of Laicks.</hi>
+               </p>
+               <p>Still this is but a humane Act grounded on no Scripture,
+<label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> and yet there is ſomthing more to be ſaid about this. For,</p>
+               <p n="1">1. I find this <hi>Colythus</hi> is reckoned among the Hereticks by <hi>Au<g ref="char:EOLhyphen"/>guſtine</hi> and others. One of his Opinions <hi>Auguſtin</hi> mentions, but what more he held I know not.</p>
+               <p n="2">2. He was a man <hi>infamis ambitione,</hi> ſay the <hi>Hiſtorians,</hi> and would make himſelf a Biſhop, as the Epiſtle of the Presbyters of <hi>Mareotis,</hi> in the ſame <hi>Apol.</hi> of <hi>Athanaſ</hi> intimates, whence they call
+<pb n="18" facs="tcp:119312:14"/>him <hi>non verum ſed imaginarium epiſcopum;</hi> whence the general Council commanded, <hi>ut ſe pro Presbytero haberat, qualis antea fu<g ref="char:EOLhyphen"/>iſſet.</hi>
+               </p>
+               <p n="3">3. It appears in both places of <hi>Athanaſins</hi> that this <hi>Colythus</hi> or<g ref="char:EOLhyphen"/>dained <hi>alone,</hi> there are none mentioned that joyned with him.</p>
+               <p n="4">4. That <hi>Iſchyras</hi> who was ordained by <hi>Colythus,</hi> and about whom there was ſo much trouble, was not choſen of a Church; for ſo the words, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, p. 570.</p>
+               <p>Now for a <hi>Heretick, alone, ambitiouſly making himſelf a Biſhop.</hi> to ordain a perſon <hi>not elected by a Church,</hi> is not the ſame with five Orthodox Presbyters, ordaining a Presbyter elected by a true Church.</p>
+               <p>The Dr. before he hath done, does allow this which is ſo pro<g ref="char:EOLhyphen"/>per to Biſhops, to be common to Presbyters in ſome caſes, then it ſeems, the power may be ours, and whether our caſe be not as weighty, I will conſider anon.</p>
+               <p>The Third and laſt is, <hi>The power of Juriſdiction over both Laick<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and Presbyters: and inſtanceth in Excommunication.</hi>
+               </p>
+               <p>
+                  <hi>He will allow indeed Presbyters to be conſulted with from</hi> Cyprians <hi>example</hi> [he might have added the 23 <hi>Canon Concil. Carthag.</hi> 4. which make elſe <hi>Sententia Epiſcopi irrita</hi>] but <hi>for the cenſure, this proceeds only from Epiſcopal Authority.</hi>
+               </p>
+               <p>Hence then Presbyters have not the power of Excommunicati<g ref="char:EOLhyphen"/>on, nor are <hi>Judges</hi> in it, ſo he ſaith.</p>
+               <p n="2">2. A Biſhop <hi>alone</hi> may excommunicate Presbyters.</p>
+               <p>For the firſt, Presbyters have the power of Excommunica<g ref="char:EOLhyphen"/>tion.</p>
+               <p n="1">1. Why elſe are they called Paſtors and Rulers, <hi>Heb.</hi> 13.17. and the people commanded to obey them; they muſt feed the flock, and <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, 1 <hi>Pet.</hi> 5.1. So 1 <hi>Theſ.</hi> 5.12. They are over them in the Lord.</p>
+               <p n="2">2. There was no Biſhop in <hi>Corinth</hi> when <hi>Paul</hi> wrote to have the inceſtuous perſon caſt out, yet they had the power of Excom<g ref="char:EOLhyphen"/>munication, 1 <hi>Cor.</hi> 5.7, 12, 13. <hi>purge, judge, put away.</hi> Had they done it before, <hi>Paul</hi> would not have written ſo ſharply.</p>
+               <p n="3">3. Thoſe who have the power of the Keyes have the power of Juriſdiction: but Presbyters have the power of the Keyes; not denied by the Papiſts,
+<note place="margin">
+                     <hi>Sent. l.</hi> 4. <hi>diſ.</hi> 18. <hi>S.</hi> 14.</note> but affirmed, inſomuch that <hi>Eſtius</hi> moves this Queſtion; <hi>
+                     <g ref="char:V">Ʋ</g>trum Sacerdotes ſoli habent poteſtatem excommu<g ref="char:EOLhyphen"/>nicandi?</hi>
+                  <pb n="19" facs="tcp:119312:14"/>and tels us ſome were of that opinion. Now by <hi>ſoli<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Eſtius</hi> does not mean, whether they alone without a Biſhop: For the queſtion he is about, is this, <hi>Penes quos ſit excommunicandi poteſtas?</hi> and his ſcope is to prove, that others <hi>beſides Prieſts</hi> have the power, but for the Prieſts, that is taken for granted, that they had the power, and quotes 1 <hi>Cor.</hi> 5.5, 13. And <hi>Auguſtine,</hi> l. 3. <hi>contra Epiſt. Parmen.</hi> c. 2. <hi>Aquinas</hi> he alſo tels us,
+<note place="margin">
+                     <hi>Supplem. q.</hi> 22. <hi>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</hi> 1.</note> that ſome were of that opinion, that <hi>the Parochial Prieſts might excommu<g ref="char:EOLhyphen"/>nicate;</hi> but thinks his own opinion to be more rational, that the Biſhop ſhould do it, had his diſtinction a foundation in Scri<g ref="char:EOLhyphen"/>pture.</p>
+               <p n="4">4. Thoſe that have power to take into the Church, have pow<g ref="char:EOLhyphen"/>er to caſt out of the Church: Are the Keyes given to Paſtors to turn them but one way? Ridiculous.</p>
+               <p n="5">5. How does this agree with <hi>Jerom</hi> before quoted, <hi>excepta Or<g ref="char:EOLhyphen"/>dinatione,</hi> &amp;c. It ſeems Juriſdiction was not excepted, when they had engroſſed Ordination, Presbyters had that power, and <hi>at firſt the Churches were governed by the common advice of the Presby<g ref="char:EOLhyphen"/>ters,</hi> thus he, <hi>Tit.</hi> 1.</p>
+               <p n="6">6. The Prieſts had that power not only to diſcern between Le<g ref="char:EOLhyphen"/>pers and Lepers, but as they could judge, they could ſeparate them from the Camp of <hi>Iſrael,</hi> which did ſhadow out our excom<g ref="char:EOLhyphen"/>munication.</p>
+               <p n="7">7. It ſeems very ſtrange, that when a Paſtor who hath taught (it may be baptized) a perſon, and now fallen into ſin, the Church and he have dealt with that perſon according to rule, that now the Church muſt go to a Biſhop to excommunicate this perſon, to whom yet he never bare relation: How came this Biſhop to have power over this Church, which he never ſaw it may be? But let Dr. <hi>Fulks</hi> ſpeak. <hi>It is manifeſt that the Authority of binding and looſing, committing and retaining, pertaineth generally to all the Apoſtles alike, and to</hi> every Paſtor <hi>in his Cure, Anſw.</hi> to <hi>Rhem.</hi> 2 Cor. 2.</p>
+               <p>Biſhop <hi>Jewel, Reply</hi> p. 178. quotes <hi>Baſil,</hi> ſpeaking thus, Chriſt ap<g ref="char:EOLhyphen"/>pointed <hi>Peter</hi> to be the Paſtor of the Church after him, and ſo con<g ref="char:EOLhyphen"/>ſequently gave the ſame power unto all Paſtots and Doctors: A Token whereof is this, that <hi>all Paſtors do equally both bind and looſe as well as he,</hi> So <hi>Baſil.</hi>
+               </p>
+               <p n="8">8. In ſuch Cities as <hi>Epheſus,</hi> &amp;c. where the Church was one,
+<pb n="20" facs="tcp:119312:15"/>and divers Elders in common governed that Church, let the <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> pronounce the ſentence of excommunication, I deny it not.</p>
+               <p>For his Proofs, becauſe <hi>Timothy muſt charge ſome that they teach no other Doctrine,</hi> 1 Tim. 1.3. So <hi>Tit.</hi> 1.11. <hi>Mouths muſt be stop<g ref="char:EOLhyphen"/>ped.</hi>
+               </p>
+               <p>But I beſeech you what is there in this more than Presbyters might do, who govern the Church in common? that <hi>ſtopping</hi> may be meant partly, if not chiefly there by Argument, <hi>convince gainſayers,</hi> v. 9. I muſt confeſs I cannot ſee the Logick of this Argument; though it doth prove Juriſdiction, does it prove Pres<g ref="char:EOLhyphen"/>byters have not the power? I thought he would have quoted 1 <hi>Tim.</hi> 5.19. But becauſe he doth not, I let it alone.</p>
+               <p>
+                  <hi>His next is, the Angel of Pergamus and Thiatira, blamed</hi> Rev. 2. for ſuffering of <hi>Jezebel,</hi> &amp;c.</p>
+               <p n="1">1. <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> Does this exclude the other Presbyters? What mean thoſe words, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, v. 24. <hi>But to you I ſay.</hi> If the King writes to the <hi>Speaker,</hi> and reproves ſomthing amiſs, or complains ſomthing is not done, does it lay the blame on him only, and not on the Members of the Houſe as well?</p>
+               <p n="2">2. Suppoſe theſe Angels had been guilty of ſins for which them<g ref="char:EOLhyphen"/>ſelves had deſerved excommunication, who ſhould have caſt them out? Are they Lords Paramount above all Chriſts Laws in his Church? I know not but the other Presbyters with the conſent of the Chur<g ref="char:EOLhyphen"/>ches, obeying their Presbyters, might have caſt theſe Angels out, or no way that I know of. The Scriptures know no Archbiſhops, though the Papiſts and Dr. <hi>Hammond</hi> do.</p>
+               <p>But to have one Biſhop alone excommunicate Presbyters, this would make as brave work as we have known before the wars begun. Let the <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> with the Presbyters, excommunicate a Presbyter, the Church conſenting.</p>
+               <p>Thus far the Dr. goeth, and then undertakes to anſwer our Arguments, but becauſe I ſee nothing is there ſaid which I have not ſpoken to before, and I am loath to exceed in this diſcourſe, I ſhall only take notice of what he ſaith in his Anſwer to the third Objection, where he tels us the neceſſity of Biſhops in theſe re<g ref="char:EOLhyphen"/>ſpects.</p>
+               <p n="1">1. <hi>To ordain Ministers, leſt the Evangelical Ministry ſhould fail.</hi>
+               </p>
+               <pb n="21" facs="tcp:119312:15"/>
+               <p>Cannot this evil be prevented by Presbyters as well?
+<label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> Are not divers thouſands of Presbyters in <hi>England</hi> more likely to keep up a ſucceſſion of Miniſters in <hi>England,</hi> than 24 Biſhops, of whom, how few now were left? Had the ſucceſſion of Miniſters de<g ref="char:EOLhyphen"/>pended upon them, in what a ſad caſe had the Church been?</p>
+               <p n="2">2. <hi>For the Governing of Presbyters, leſt by their impure manners, hereſies and ſchiſmes, they ſhould deſtroy the Church.</hi>
+               </p>
+               <p>And are not Biſhops equally liable to theſe?
+<label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> How ſhall the Church now be ſaved? May we not read with our eyes in Hiſtories, and hear with our ears what Biſhops have been? Have we not ſeen the excellency of this Government in <hi>England?</hi> as to the impure manners of Miniſters being corrected: Is it not a <hi>Cordoli<g ref="char:EOLhyphen"/>um</hi> to the godly in <hi>England</hi> to have ſo many who were juſtly caſt out for <hi>ſcandal</hi> by the Parliament [though ſome were wronged I know, and do as much deteſt their ejectment] to return again, not one whit purged that we can fee?</p>
+               <p n="2">2. For <hi>Hereſie</hi> and <hi>ſchiſm.</hi>
+               </p>
+               <p n="1">1. We know what <hi>Bellarmine</hi> ſaith, <hi>Certe Hereſiarchae ferè om<g ref="char:EOLhyphen"/>nes aut Epiſcopi, aut Presbyteri fuerunt;</hi> and from theſe Hereſies riſe <hi>Factions</hi> among the people, ſaith he, ſo that Biſhops are as deep in the mire for <hi>hereſie</hi> and cauſing <hi>ſchiſm,</hi> as the Presbyters. Hence he will have a Pope; but that Monarchical Government hath not cured <hi>Schiſm</hi> we know, much leſs Hereſie.</p>
+               <p n="2">2. As for <hi>Hereſie</hi> and <hi>Schiſm</hi> both, name any National Church under Heaven more free from them, than the Church of <hi>Scotland,</hi> before theſe troubles began, and yet there Biſhops are not appro<g ref="char:EOLhyphen"/>ved of.</p>
+               <p n="3">3. For <hi>Schiſm,</hi> read but the life of <hi>Conſtantine,</hi> and there ſee whether Biſhops were not guilty of Schiſm, and the <hi>Concil. Tola<g ref="char:EOLhyphen"/>ta</hi> 1. was called upon ſome Schiſm among the Biſhops.</p>
+               <p n="4">4. We ſay that <hi>Rome</hi> is guilty of the Schiſm between us and them, becauſe <hi>Rome</hi> gave the cauſe: I leave the Reader to en<g ref="char:EOLhyphen"/>quire who gave the firſt cauſe of the Schiſms now in <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+               </p>
+               <p n="5">5. Why then did not <hi>Paul</hi> appoint a Biſhop in <hi>Corinth,</hi> when Schiſm was there, both in his time, and <hi>Clemens</hi> his time, but <hi>Clemens</hi> mentions none: <hi>Jerom</hi> ſaith indeed, that upon theſe Schiſms Biſhops were ſet up <hi>afterwards.</hi> [I write not his known word] <hi>poſted:</hi> But it is much that theſe ends of a Biſhop, which
+<pb n="22" facs="tcp:119312:16"/>are ſo great for the good of the Church, and it ſeems can be per<g ref="char:EOLhyphen"/>formed by none but him, ſhould not be foreſeen by Chriſt at firſt, and ſo this Biſhop at firſt appointed; but the ordinary main Stud of Chriſts Houſe ſhould be forgot to be ſet up, till many years af<g ref="char:EOLhyphen"/>ter the Houſe was up. Sure this means was none of his, and ſo it proves.</p>
+               <p n="6">6. How can the Biſhop be a fit means to cure Schiſm or prevent it? I know no way but this, that Presbyters muſt reſign all their judgments up to his Chair, and he infallibly determine, which is right or wrong, and ſo all muſt yield to his ſentence. This were brave indeed.</p>
+               <p n="7">7. Let our King withdraw his tender and healing hand, and his power from aſſiſting Biſhops, &amp; let us now ſee how the Biſhops will ſhew forth that wonderful vertue of Epiſcopacy in healing our Schiſms: I doubt our King who is, as <hi>Conſtantine</hi> ſaid of himſelf, the Biſhop <hi>extra Eccleſiam,</hi> muſt be the great healer, under God, of our Schiſms, elſe the Biſhops within the Church will make them much worſe, but never heal I am ſure by all power Epiſcopal. If the Keyes of the <hi>Gate-houſe</hi> and other Priſons be at their command, then they may do more with thoſe Keyes than their Epiſcopal Keyes. Yet I think Priſons will hardly heal us.</p>
+               <p n="8">8. There was an honeſt way found out how to cure wrangling, ſchiſmatical Biſhops; and the ſame cure is proper and very apt for Schiſmatical Presbyters, <hi>Concil. Carthag.</hi> 4. <hi>Can.</hi> 25. <hi>Diſſidentes epiſcopos ſi non timor Dei, Synodus reconciliet:</hi> A more apt means than a Biſhop, becauſe that is Apoſtolical.</p>
+               <p>To wind up all my Diſcourſe concerning this Epiſcopacy, which the Dr. hath aſſerted, &amp; now commended as neceſſary againſt <hi>Schiſm,</hi> I will only give the Reader the judgment of <hi>Muſculus</hi> upon the queſtion, how effectual it is towards the cure. After he had pro<g ref="char:EOLhyphen"/>ved, <hi>Biſhop</hi> and <hi>Preſbyter</hi> to be the ſame by Scripture, then he comes to give the original of the Biſhop out of <hi>Jorom,</hi>
+                  <note place="margin">
+                     <hi>Loc. com. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</hi> 195.</note> and thus he writes; <hi>Verum poſt Apoſtolorum tempora, cum inter ſeniores Ec<g ref="char:EOLhyphen"/>cleſiarum, ſicuti Hieronymo placet, diſſentiones &amp; ſchiſmata ſubnaſ<g ref="char:EOLhyphen"/>cerentur, &amp; ut mihi vere ſimile eſt, tentatio illa de majoritate mentes ſeniorum, paſtorum at doctorum invaderet, paulatim capit de numero ſeniorum unus aliquis eligi, qui reliquis praeponeretur, &amp; in ſublimiori gradu poſitus, Epiſcopus nominaretur: atque ita quod caeteri antea com<g ref="char:EOLhyphen"/>muniter ipſe ſolus ac ſingulariter vocaretur. Profueritus vel ſeous hoc
+<pb n="23" facs="tcp:119312:16"/>conſilium Eccleſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Christi, quo tales ſint Epiſcopi, magis conſuetudine, ut</hi> Hieronymi <hi>verbis utar, quam Dominioa diſpoſitionis veritate introducti, qui majores oſſent Preſbyteris, melius eſt poſterioribus ſeculis deelaratum, quam dum haec conſuetudo primum introduceretur, cui debe<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>us omnem illam principalium &amp; equeſtrium Epiſcoporum inſole<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tiam, opulentiam, &amp; tyrannidem, imo omnium Eccleſiarum Chriſti corruptione<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, quam ſi</hi> Hier. <hi>cerneret, dubio procul conſilium agnoſceret non Spiritus Sancti ad tollenda Schiſmata, ſicuti praetexebatur, ſed ipſius Satanae, ad vaſtanda &amp; perdenda priſca paſcendi Dominici gregis miniſteria; quo fieret ut haberet Eccleſia, non veros Paſtores, Doctores Preſbyteros &amp; Epiſcopos, ſed ſub <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ominum iſtorum larvis oci<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſos ventres ac magnificos Principes, qui non modo non paſcant ipſi populum Domini doctrina ſana &amp; Apoſtolica, ſed &amp; improbiſſima violentia caveant ne id per quenquam <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lium fiat,</hi> &amp;c. I am far from applying this to all our Biſhops; no verily, This Learned <hi>Davenant, Hall, Brownrig;</hi> I do much reverence their names now dead and gone, and no man upon earth have I ſo much honoured as that Archbiſhop <hi>Uſher;</hi> but what talk I of him? he was in all Reſpects, for Learning, ſoundneſſe in the Faith, Humility, and Holineſſe, a <hi>None-ſuch:</hi> In what an ill time (as to us) was he taken away! but God is wiſe.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. II. <hi>Of Preſbyterial Ordination.</hi>
+               </head>
+               <p>VVHether that which made the greateſt Argument againſt our Presbyterial Ordination be not taken away, I leave to the Chriſtian Reader, who makes the Holy Scriptures his Rule to judge by. Now then for a few Arguments to prove, <hi>The validity of Preſbyterial Ordination.</hi>
+               </p>
+               <p>Theſe two Propoſitions, however denied by ſome, yet I preſume they will be granted by theſe ſcorners of our Presbyterial Ordination.</p>
+               <list>
+                  <item>1. That Ordination is ſtill an Ordinance of God, in force in the Church; and ſo ſhall be while there is a Miniſtry.</item>
+                  <item>2. That it is an Act of Authority, and can be performed by none but by thoſe who are in Authority in the Church.</item>
+               </list>
+               <p>Hence then I thus argue,
+<q>Scripture Ordination is valid Ordination:
+<label type="milestone">
+                        <seg type="milestoneunit">Arg. </seg>1</label> But Presbyterial
+<pb n="24" facs="tcp:119312:17"/>Ordination is Scriptural Ordination; <hi>Ergo.</hi> Deny the <hi>major</hi> who dare: The <hi>minor</hi> I thus prove;</q>
+               </p>
+               <p>That Ordination which is performed by perſons inveſted with the power thereof by Scripture Authority, is Scriptural Ordination: But Presbyterial Ordination is Ordination performed by Perſons inveſted with the power thereof by Scripture authority. <hi>Ergo.</hi>
+               </p>
+               <p>
+                  <hi>Minor,</hi> If the Scripture hath now inveſted any others with the power of Ordination, they are perſons either of an Inferiour or Superiour Order, But neither: <hi>Ergo.</hi> Not Inferiour is granted, not Superiour, the whole Diſcourſe before proves, by the judgment of the Scriptures, and many agreeing thereto; Presbyter and Biſhop are the ſame.</p>
+               <p>Objection, <hi>Presbyters are no where commanded to ordain.</hi>
+               </p>
+               <p>
+                  <hi>Anſwer,</hi> Prove that your Biſhops are: and I will prove my Presbyters are.</p>
+               <p n="2">2. Where are Presbyters commanded to Adminiſter the Lords Supper, or Baptize? Finde that Command; and I will finde other Authoritative Acts in it. I doubt not our Authority deſcends from that Command and Commiſſion to the Apoſtles <hi>Matth.</hi> 28. What<g ref="char:EOLhyphen"/>ever Acts are requiſite to encreaſe, to edifie, or continue the Church, we have the Authority by Succeſſion; and ſo are Paſtors and Rulers.</p>
+               <q>II.
+<label type="milestone">
+                     <seg type="milestoneunit">Arg. </seg>2</label> That Ordination which is performed by perſons which have the Keyes of the Kingdome of Heaven committed to them, that is valid Ordination.</q>
+               <p>But Presbyterial Ordination is performed by ſuch,
+<note place="margin">
+                     <hi>Nomine clavi<g ref="char:EOLhyphen"/>um ſigniſic. tur omnis poteſtas Eccleſiallica.</hi> Suppl. cham. <hi>lib.</hi> 4. <hi>chap.</hi> 4.</note> 
+                  <hi>Ergo.</hi>
+               </p>
+               <p>
+                  <hi>Major,</hi> The Keyes of the Kingdome do contain in them the power of Ordination, ſaith <hi>Cor. à Lapide, Chemnitius Bucer,</hi> &amp;c.</p>
+               <p>
+                  <hi>Minor,</hi> Though the Pope, Biſhops and Presbyters contend for the Keyes, yet that Presbyters have the Keys committed to them, is confeſſed by the Papiſts.</p>
+               <p>Objection, <hi>The Key of Knowledg.</hi>
+               </p>
+               <p>
+                  <hi>Anſwer.</hi> I proved before the Key of Juriſdiction. I adde, That Diſtribution of the Keyes which is not grounded on the Scripture is a vain Diſtribution, (as we ſay) <hi>Diſtinguendum eſt ubi Scriptura diſtinguit: Sic diſtribuendum eſt, &amp;c.</hi>
+               </p>
+               <p>But this diſtribution of the Keyes, ſo as to give but the <hi>Key of Knowledge</hi> to the Presbyter, is not grounded on Scripture; <hi>Ergo,</hi> It is vain.</p>
+               <p>
+                  <hi>To thee do I give the Keyes,</hi> ſaid our Lord; he did not civide the
+<pb n="25" facs="tcp:119312:17"/>Keyes, give one <hi>key</hi> to one, and both to another, he gives no ſingle <hi>key</hi> to any perſon, but <hi>keyes,</hi> and ſo whatever thoſe Keys ſerve for: <hi>Buſil</hi> and Dr. <hi>Fulk</hi> ſpeak fully for the Keys of juriſdiction belonging to all Paſtors, then the Key of Order as well.</p>
+               <q>III. <hi>Timothies</hi> Ordination was valid Ordination,
+<label type="milestone">
+                     <seg type="milestoneunit">Arg. </seg>3</label> but <hi>Timothies</hi> Ordination was Presbyterial Ordination, <hi>Ergo.</hi>
+               </q>
+               <p>
+                  <hi>Laying on of the hands of the Preſbyterie,</hi> 1 <hi>Tim.</hi> 4.14. Againſt this is objected;</p>
+               <q>1. <hi>Paul did impoſe his hands in Timothies Ordination, and that was ſufficient without the Preſbytery.</hi>
+               </q>
+               <p>
+                  <hi>Anſw.</hi> 1. <hi>Diodati</hi> conceives, That by <hi>Pauls</hi> hands the miraculous <hi>gift</hi> was conveyed; by the Presbytery <hi>Timothy</hi> was inſtalled in the Miniſtry. See him on 2 <hi>Tim.</hi> 1.6. I have ſpoken to this in another Treatiſe.</p>
+               <p n="2">2. However the Presbytery impoſed hands, they had a power to do the work, elſe <hi>Paul</hi> would no have called them to it, <hi>Paul</hi> did not ordain <hi>Timothy, quatenus</hi> Apoſtle; then your Biſhop is gone.</p>
+               <p n="3">3. In reſpect of the Preſident, and perpetual Order which was to be left to the Church of Chriſt, it was neceſſary that the Presbytery ſhould impoſe their hands. <hi>Nec tantum dicit mearum manuum,
+<note place="margin">
+                        <hi>Exam. Conc. Trid. de Sacra. ord. p.</hi> 226.</note> ſed addit etiam Preſbyterii,</hi> 1 Tim. 4. <hi>ne exiſtimetur diſcrimen eſſe, ſive ab Apoſtolis, ſive à Preſbyteriis quis ordinetur</hi> (ſaith <hi>Chemnitius.</hi>
+               </p>
+               <q>Object. 2. <hi>But who knows what Preſbyters theſe were? Chryſoſtome</hi> ſaith <hi>Biſhops.</hi>
+               </q>
+               <p>
+                  <hi>Anſwer,</hi> So ſaith <hi>Lorinus, Intelligit chorum Preſbyterorum,</hi> i. e. <hi>Epiſcoporum:</hi> Be it ſo; for now I am ſure Presbyters and Biſhops were the ſame. Some ſay, It was the Presbytery of <hi>Epheſus,;</hi> if they could prove this it were to the purpoſe indeed. <hi>Junius</hi> ſaith, the Presbytery of <hi>Lystra,</hi> whence <hi>Paul</hi> took him. What Presbyters are, we know by the Scripture, and <hi>Preſbyterium</hi> is a company of Presbyters, as <hi>Lorinus</hi> ſaid: If it pleaſe you not, I pray teach us better. The <hi>Rhemiſts</hi> render the word <hi>Prieſthood,</hi> and quote the 3<hi rend="sup">d</hi> Canon, <hi>Concil. Carth.</hi> 4. before named, to open it by: This is more for us againſt <hi>Chryſoſtome:</hi> Thus alſo <hi>Cajetan, Dicit pluraliter manuum Preſbyterii, fortè ad ſignificandum plurium</hi> Sacerdotum <hi>concurſum.</hi> &amp;c. This Presbytery impoſing hands on <hi>Timothy</hi> was no doubt the ground of <hi>Cyprians</hi> practice, ſo of that Canon in the Council of <hi>Carthage,</hi> and of our Biſhops Canons,
+<pb n="26" facs="tcp:119312:18"/>whence I wonder, any rational man ſhould ſo ſcorn Presby<g ref="char:EOLhyphen"/>terial Ordination.</p>
+               <p>Object. <hi>But there was</hi> Pauls <hi>Impoſition, and ſo there was the Bi<g ref="char:EOLhyphen"/>ſhops Impoſition, but not Presbyters alone.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> As for <hi>Paul,</hi> the anſwer to the firſt Objection will ſatisfie: For the Biſhop, true he was there, but how came he there? <hi>Jerome</hi> tells us, and we have reaſon to believe him, becauſe he groundeth his diſcourſe upon the Scriptures. However the Biſhop did not ſuperadd any thing to the perfection of the Ordinance, he put forth no more power than the other Presbyters, only for Order<g ref="char:EOLhyphen"/>ſake he carried on the work: So had we our <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> in our Aſſocia<g ref="char:EOLhyphen"/>tion, who was ſo, and ſhould have continued ſo <hi>dur ante vitâ</hi> for me: But as in the abſence of a Biſhop, the ſufftagan might ſupply his room, ſo as well in the abſence of our Preſident another might ſupply his, being eſpecially choſen, and earneſtly deſired by his fel<g ref="char:EOLhyphen"/>low Presbyters to do it.</p>
+               <q>IV.
+<label type="milestone">
+                     <seg type="milestoneunit">Arg. </seg>4</label> If Prophets and Teachers may ſeparate Apoſtles to their work by Faſting, Prayer, and Impoſition of hands, then may Presbyters ordain Presbyters, and that Ordination is valid; but the Antecedent is true, <hi>Acts</hi> 13.1, 2, 3. <hi>Ergo.</hi>
+               </q>
+               <p>Teachers are inferiour to Prophets, and all preaching Presbyters I hope are <hi>Teachers,</hi> but theſe impoſed hands, the Prophets were inferiour to Apoſtles.</p>
+               <p>Object. <hi>But this was not Ordination.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> I have ſpoken to this in another Treatiſe more largely: but I could name (and have named there) ſeveral of the Fathers, Lutherans, and Calviniſts, who ſay it was Ordination; and for the Papiſts, divers of thoſe I could mention, who call it Ordination.</p>
+               <p>If it was not Ordination, I pray what was it? We find <hi>Barnabas</hi> after this Act is called an <hi>Apoſtle, Acts</hi> 14.14. but ſo he was never before, he was at the higheſt but a <hi>Prophet,</hi> as the Text declares. So <hi>Jerom,</hi>
+                  <note place="margin">Catal. Script. Keeleſ.</note> ſpeaking of <hi>Barnahas,</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. It was a <hi>ſeparation</hi> to a work, and what do you more in Or<g ref="char:EOLhyphen"/>dination than is here ſet down? But I ſpeak no more of it in this place, becauſe (as I ſaid) I have done it before.</p>
+               <q>V.
+<label type="milestone">
+                     <seg type="milestoneunit">Arg. </seg>5</label> Thoſe who have Authority to perform the greateſt miniſte<g ref="char:EOLhyphen"/>rial Acts, they have power to perform the leſs.</q>
+               <p>But Prebyters have Authority to perform the greateſt. <hi>Ergo.</hi>
+               </p>
+               <p>For the <hi>Major,</hi> thoſe who will deny it, give us a ſound and con<g ref="char:EOLhyphen"/>vincing
+<pb n="27" facs="tcp:119312:18"/>reaſon why they do ſo, I cannot imagine one, <hi>à majore ad minus valet conſequentia</hi> in this caſe ſure.</p>
+               <p>For the <hi>Minor:</hi> When <hi>Paul</hi> ſaith, 1 <hi>Cor.</hi> 1.17. Chriſt did not ſend him to baptize, but <hi>to preach the Gespel,</hi> ſurely <hi>Paul</hi> mentioned the higheſt Miniſterial Act; elſe <hi>Paul</hi> muſt ſay, not to baptize, nor to preach, <hi>but to ordain Miniſters.</hi> Reverend <hi>Davenant</hi> ſaith,
+<note place="margin">Pag. 194.</note> that <hi>in rebus maximi momenti ad ſalutem hominum,</hi> Presbyters have power as well as Biſhops, and therefore the name, <hi>Biſhop,</hi> may well agree to them, ſaith he, why not then <hi>in rebus minoris momenti?</hi> I wiſh he had given a ſound reaſon for it; it ſeems they can do thoſe Acts which tend to the <hi>end</hi> of the Miniſtry mainly and principally, and not the leſſer; What rational man can ſwallow this? If <hi>Abi<g ref="char:EOLhyphen"/>lity</hi> be the queſtion, I think the Presbyters have ſhewn enough to anſwer it. Compare Epiſcopal Ordinations and Presbyterial, where did the Majeſty of Gods Ordinance appear moſt? And as for the <hi>Or<g ref="char:EOLhyphen"/>dained</hi> by them, compare them with others and ſee if not able for the work.</p>
+               <p>I will adde two or three Arguments <hi>ad homi nem.</hi>
+               </p>
+               <q>VI. If Ordination by Biſhops be valid,
+<label type="milestone">
+                     <seg type="milestoneunit">Arg. </seg>6</label> then ordination by Presbyters is valid: but you ſuppoſe the firſt is true, and we wiſh you had proved it more ſufficiently, that our-people might not have ſeparated from us upon that account.</q>
+               <p>The conſequence I prove thus:</p>
+               <p n="1">1. For Presbyters we are ſure they are the Officers of Chriſt, but for your Biſhops, eſpecially ſuch as are in <hi>England,</hi> extending their power (as I ſaid in the beginning) after that manner ſo vaſtly, I dare ſay <hi>quâ tales,</hi> they are none of Chriſts Officers, nor, as they take to themſelves a power above other Miniſters.</p>
+               <p n="2">2. Take Biſhops in the faireſt ſence, ſo Biſhops and Presbyters are of the ſame <hi>Order:</hi> If of the ſame Order, then Presbyters Or<g ref="char:EOLhyphen"/>dination is as valid as the Biſhops.</p>
+               <p>That they are of the ſame Order, Learned <hi>Davenant</hi> doth, in the beginning of his Determination, name <hi>Gulielmus Pariſienſis, Ger<g ref="char:EOLhyphen"/>ſon,</hi> and <hi>Durandus</hi> among the Papiſts affirming it; to which, as a further confirmation, I may add that ſaying of <hi>Ambroſe,</hi> on 1 <hi>Tim.</hi> 3. <hi>Poſt Epiſcopum tamen Diaconatus Ordinationem ſubject; quare? Niſi quia Epiſcopi &amp; Presbyteri una Ordinatio eſt, uterque enim Sacerdos eſt:</hi> for that he adds, <hi>Epiſcopus eſt qui inter Presbyte<g ref="char:EOLhyphen"/>ros primus eſt.</hi> I ſhall not ſtick at that, ſtill they are the fame Or<g ref="char:EOLhyphen"/>der.
+<pb n="28" facs="tcp:119312:19"/>For the Conſequence, I borrow this <hi>only</hi> out of Mr. <hi>Baxter,</hi> who ſaith, he had it from Biſhop <hi>Uſher,</hi> to prove Ordination by meer Presbyters, without a Prelate, is valid, for <hi>ad ordinem pertinet ordinare.</hi>
+               </p>
+               <q>VII.
+<label type="milestone">
+                     <seg type="milestoneunit">Arg. </seg>7</label> Ordination by Presbyters in caſe of neceſſity is valid: So ſaith learned <hi>Davenant,</hi> 191. But</q>
+               <p>The Ordination by Presbyters now was in a caſe of neceſſity.</p>
+               <p>The <hi>Minor:</hi> 1. Biſhops were now put down by Authority. 2. So<g ref="char:EOLhyphen"/>lemn Covenant againſt them (in part) taken, being impoſed by Authority. 3. Biſhops dared not to Ordain openly, why not we as much afraid to go to them? 4. The eye of the State not ſo favoura<g ref="char:EOLhyphen"/>ble upon thoſe who were ordained by them, and unleſs we were ſa<g ref="char:EOLhyphen"/>tisſied they were Officers of Chriſt, we had no reaſon to hazard our ſelves for them. 5. We could not tell where to have them. 6. And how many were corruption Doctrine. 7. And what divers had been in perſecution we know; ſo that we had no reaſon to feek to ſuch. 8. Beſides, the State ſet up Presbyterial Ordination. 9. Suc<g ref="char:EOLhyphen"/>ceſſion of Miniſters muſt be continued.</p>
+               <q>VIII.
+<label type="milestone">
+                     <seg type="milestoneunit">Arg. </seg>8</label> That Ordination which by the moſt learned and godly, Epiſcopall men is judged valid, cannot be denied by others to be invalid, without great defect of modeſty, and humility, Unleſs they have good Scripture againſt it, which be ſure they have not. But thus have a Presbyterial Ordination been judged by the moſt Learned, <hi>&amp;c.</hi> as by that flower of all Epiſ<g ref="char:EOLhyphen"/>copal men, Biſhop <hi>Uſher;</hi> ſo all our Biſhops, and Epiſcopal men, who have aſſerted the Miniſtry of other Churches where no Biſhops are, to be lawful and valid.</q>
+               <p>And to go yet a little higher to Antiquity: thoſe places in <hi>Au<g ref="char:EOLhyphen"/>guſtine</hi>
+                  <note n="a" place="margin">
+                     <hi>Tom.</hi> 4. <hi>p.</hi> 780 <hi>Fro.</hi>
+                  </note> and <hi>Ambroſe</hi>
+                  <note n="b" place="margin">Epheſ. 4.</note> are well known, both of them ſpeak to the ſame purpoſe: <hi>Nam in Alexandria &amp; per totam Aegyptum ſi deſit Epiſcopus, conſecrat Presbyter,</hi> ſo ſaith <hi>Auguſtine. Conſignant Presby<g ref="char:EOLhyphen"/>teri ſi praeſens non ſit Epiſcopus,</hi> ſaith <hi>Ambroſe.</hi> Yea, it ſeems, that this Ordination by Presbyters did trouble <hi>Durandus,</hi>
+                  <note place="margin">
+                     <hi>Sent. l.</hi> 4. <hi>Diſt.</hi> 24. <hi>q.</hi> 5.</note> for ſpeaking to this queſtion. <hi>Utrum in Eccleſia ſit aliqua poteſt as major Sacerdo<g ref="char:EOLhyphen"/>tali?</hi> In point of Juriſdiction he will allow the Biſhop to be ſupe<g ref="char:EOLhyphen"/>riour, but <hi>De poteſtate Conſecrationis vel Ordinis eſt magnum dubium.</hi> By <hi>Jeroms</hi> Authority from the Scripture, and by a reaſon he brings himſelf, he could conclude Biſhop and Prieſt in this point to be <hi>Pares,</hi> but that the Authority of the Church had determined it
+<pb n="29" facs="tcp:119312:19"/>otherwiſe; Thus the Church is above Scripture and Reiſon, eiſe <hi>Du<g ref="char:EOLhyphen"/>randus</hi> will own our Ordination.</p>
+               <p>I will conclude with the ſaying of that learned Lutheran <hi>Ger<g ref="char:EOLhyphen"/>hard,</hi> who alloweth ſome Biſhops:
+<note place="margin">
+                     <hi>Loc com. de mi<g ref="char:EOLhyphen"/>niſt. Eccleſ. p.</hi> 261.</note> 
+                  <hi>Ex toto codice biblico ne apex quidom proferri potest, quo demonſtretur, immutabili quadam neceſſita<g ref="char:EOLhyphen"/>te, a<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ipſius Dei Institutione poteſtatem ordinandi en modo competere Epiſcopo, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t ſi Miniſter ab Epiſcopo ordinetur, ejus vocatio &amp; ordinatio oenſeatur rata, ſin à Presbytero, quod tunc irrita coram Deo, &amp; fruſtra<g ref="char:EOLhyphen"/>nea ſit habenda.</hi>
+               </p>
+               <p>My Prayer is, <hi>Lord lead me not into temptation:</hi> But if it comes to this, that I muſt renounce my Presbyterial Ordination and be ordained by a Biſhop, or I muſt be ſilenced, I ſhall deſire grace from the Lord, and reſolve to lay down my Miniſtry, before I will my Ordination: for in being re-ordained by Biſhops,</p>
+               <p n="1">1. I muſt plainly condemn all Miniſters of other Churches, who are ordained only by Presbyters: how abominable is this? To null all other Miniſters that have not Epiſcopal Ordina<g ref="char:EOLhyphen"/>tion.</p>
+               <p n="2">2. I muſt eſtabliſh an officer in the Church which Chriſt never did, not his Apoſtles, yea, and this the chief Officer.</p>
+               <p n="3">3. Epiſcopal Ordinations have other Appendices, of ſubſcri<g ref="char:EOLhyphen"/>ptions which the Lord deliver us from. I omit the ſlightineſs of Biſhops in their Ordinations, above that I have ſeen among Pres<g ref="char:EOLhyphen"/>byters.</p>
+               <p n="4">4. And with this I conclude: If they can prove us to be Here<g ref="char:EOLhyphen"/>ticks let them, elſe I give them the 67 <hi>Canon Apoſtol. Si quis Epiſ<g ref="char:EOLhyphen"/>copus, aut Presbyter, aut Diaconus ſecundam ab aliquo ordinationem ſuſceperit, deponitor tam ipſe, quàm qui ipſum Ordinavit.</hi>
+               </p>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. III. <hi>Concerning Impoſed Forms of Prayer.</hi>
+               </head>
+               <p>HOw different mens opinions are concerning Forms of Prayer their Tongues, Pens, and Practiſes declare. Some are carri<g ref="char:EOLhyphen"/>ed vehemently againſt them, and will own none but conceived Prayers, made by the Spirit; others are as high for Forms of Prayer, againſt conceived Prayer.
+<gap reason="missing" extent="2 pages">
+                     <desc>〈2 pages missing〉</desc>
+                  </gap>
+               </p>
+               <pb n="32" facs="tcp:119312:20"/>
+               <p> us his Scriptures, he could have conveyed all his minde to us by Tradition, who doubts it? But I may go ſo farr, and deſire you to ſhew us, in the very next Churches to the Apoſtles, that ſuch things were in uſe, in the worſhip of God; and that thoſe Churches affirme, they had them from the Apoſtles by Tradition. What? neither Apoſtolical Writings, nor Apoſtolical Traditions: Whence came theſe then? not that I will build my Faith upon a Tradition.</p>
+               <p>When I read theſe words in <hi>Just. martyr,</hi> Apol. 2. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, I thought, poſſibly ſome body might lay hold upon them for our Common-Prayers; and not long after, I found them uſed for that purpoſe by a Learned Doctor, But how do theſe words prove an <hi>Impoſed form of Prayer:</hi> or, that they read them out of a Book: why he calls them <hi>common,</hi> the next words will give us a Reaſon, but they prove not the impoſed forme: Beſides, had he turned over the leaf, in the next Page he might have found, that the <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> did pray. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, which if <hi>Langus</hi> had any skill to tranſlate, is, <hi>quantum pro virili ſua poteſt. Tertullians</hi> words are commonly known, That they prayed <hi>ſine Monitore, Apol.</hi> c. 30. Then no Forms of Prayer were impoſed.</p>
+               <p>
+                  <hi>Arg.</hi>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Arg. </seg>2</label> If the grounds for impoſing Forms of Prayer <hi>now</hi> were of as much or more force in the Apoſtles time, and yet they did not impoſe Forms of Prayer, then thoſe grounds are inſufficient now, and ſo the Act unwarrantable:</p>
+               <p>But the Grounds that now are alledged had as much, yea and ſome of them more force then, then now. <hi>Ergo.</hi>
+               </p>
+               <p>For the Antecedent name your Grounds, the main one that I hear, is <hi>Uniformity;</hi> but this was of much more force in the Apoſtles time; for they, travelling into <hi>Europe, Aſia, Africa,</hi> and planting of Churches in all theſe parts of the world, had they made ſuch a Liturgie, and Forms of Prayer for the whole Catholique Church, there had been a <hi>Uniformity</hi> in all the Churches of the world; there ſhould not have been ſo many Liturgies as there is now, every Nation following their own, what abundance have been and are? Yea, but <hi>Paul</hi> wanted wiſdome, had he lived longer he might have learned from other men. Thus I wil carry all thoſe Arguments which the Scorners of conceived Prayer bring, and ſhew they had as much force then as now: But had there been ſuch form of Prayer in all the Churches, they would not all have been loſt ſure enough, ſome would have been reſerved til now.</p>
+               <pb n="33" facs="tcp:119312:20"/>
+               <p>One thing it may be will be alledged, <hi>Inability of men:</hi> But this ſpeaks ill; it ſeems, neither the Apoſtles, nor Evangeliſts would ordain thoſe to the Miniſtry, who had not a gift of Prayer, it being as requiſite as a gift of preaching.</p>
+               <p n="2">2. However that troubles not my Queſtion, for I ſpeak of impoſing upon men gifted and able.</p>
+               <p>To ſay, <hi>The Churches were then newly planted;</hi> Therefore ſay I, the more need of Formes of Prayer, if needfull at all, and yet the Apoſtles lived many years after the Churches were planted, and did not impoſe or appoint Forms of Prayers.</p>
+               <q>III.
+<label type="milestone">
+                     <seg type="milestoneunit">Arg. </seg>3</label> That Act which in great part doth fruſtrate one fruit of Chriſts Aſcention is an unlawfull Act.</q>
+               <p>But the impoſing Forms of Prayer on men already qualified, is in great part a fruſtrating of one fruit of Chriſts Aſcention, <hi>Ergo,</hi> it is unlawfull.</p>
+               <p>The <hi>major</hi> I think cannot be denied:</p>
+               <p>The <hi>minor;</hi> One fruit of his Aſcenſion was <hi>to give gifts to men,</hi> Epheſ. 4.8. and as Gifts for Apoſtles, ſo for <hi>Paſtors</hi> and <hi>Teachers,</hi> verſ. 11. among which Gifts, I am ſure <hi>Prayer</hi> is one; and this Gift, as he hath beſtowed it variouſly, ſo he bath eminently, upon ſome men, and without pride it may be ſpoken (for it is a gift, <hi>ergo</hi> free) as eminently upon the Engliſh Miniſtry, as any now this day in the world: But the impoſing of Formes of Prayers doth fruſtrate this gift of Chriſt; for they are thereby hindered from the exerciſe of it; there needed no gifts to have been conferred, but upon thoſe wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> compoſe the Formes of Prayer.</p>
+               <q>IV.
+<label type="milestone">
+                     <seg type="milestoneunit">Arg. </seg>4</label> That Act which takes off a Miniſter from his duty is not lawfull:</q>
+               <p>But impoſing of Forms of Prayer takes off a Miniſter from his Duty, <hi>Engo.</hi>
+               </p>
+               <p>
+                  <hi>Minor,</hi> A Miniſters Duty is, <hi>to ſtir up the gift of God which is in him,</hi> 2 Tim. 1.6. Unleſs you will ſay, the Epiſtle was written to a Biſhop, and ſo doth not belong to Presbyters. But there is no place to ſtir up the Gift of Prayer; for he muſt read Prayer, the effect of the gift of others.</p>
+               <q>V. That Act which directly fomenteth a corrupt frame,
+<label type="milestone">
+                     <seg type="milestoneunit">Arg. </seg>5</label> to which we incline, is unlawfull, [Means and occaſions of ſin muſt be avoided].</q>
+               <p>But impoſing of Formes of Prayers do directly foment a corrupt frame to which we incline; that is lazineſs. <hi>Ergo.</hi>
+               </p>
+               <pb n="34" facs="tcp:119312:21"/>
+               <p>Do but impoſe Homilies alſo to be read, and a lazy heart will think you: And why not Forms of Preaching as well as of Praying? if hinder one gift, why not the other: A bare Form of Prayer doth not ſo directly foment lazineſs, but the impoſing and tying to it will.</p>
+               <q>VI.
+<label type="milestone">
+                     <seg type="milestoneunit">Arg. </seg>6</label> That Act which expoſeth the Miniſters of Chriſt to contempt is unlawfull:</q>
+               <p>But the impoſing of Prayers for Miniſters to read, expoſe them to conteinpt, <hi>Ergo.</hi>
+               </p>
+               <p>
+                  <hi>Minor,</hi> Miniſters are ſuppoſed to be perſons gifted above others, and ought to be ſo I am ſure; [notably doth Mr. <hi>Cartwright</hi> ſpeak to this in his Comment upon Chriſts words to <hi>Nicodemus, John</hi> 3.]</p>
+               <p>But for a Miniſter to read Prayers [Prayer being a great part of his work] is to do no more than a <hi>boy of eight years</hi> old may do; and a <hi>reading Prieſt</hi> hath been the ſcorne caſt upon Miniſters.</p>
+               <q>VII.
+<label type="milestone">
+                     <seg type="milestoneunit">Arg. </seg>7</label> That Act which will keep away many, and diſcourage the beſt worſhippers of God; [I may add, and does but nouriſh carnal and formal worſhippers in their ſin] is unlawfull:</q>
+               <p>But ſo does this impoſſing of Forms of Prayer:</p>
+               <p>How many are there of Gods ſervants who walk holily with him, whom he hath endued with the gift and ſpirit of Prayer, even private men, for theſe to come to the publick Worſhip of God, and there to hear Prayers read over, which their Children at home can do, but they themſelves can pour out their hearts to God, without reading their Petitions, will they not be diſcouraged? I know, and it is already proved, many will <hi>not come,</hi> as judging it unlawfull, and others will be much diſcouraged, that do come: and why ſhould Gods beſt worſhippers be offended: For others, if they can but ſay after a Miniſter, in a book, will not queſtion but they have ſerved God as well as the beſt, and in this their formal worſhip reſt.</p>
+               <q>VIII.
+<label type="milestone">
+                     <seg type="milestoneunit">Arg. </seg>8</label> That Act which hinders the actings of the Spirit of God in the hearts of his people, is an unlawfull Act.</q>
+               <p>But the impoſing of Forms of Prayer do hinder the actings of the Spirit in the hearts of Gods people, <hi>Ergo.</hi>
+               </p>
+               <p>
+                  <hi>Major,</hi> What the Word hath ſpoken of the Spirits helping the people of God in Prayer I need not mention, the places are well known in the Old and New Teſtament. But this hinders.</p>
+               <p>It is commonly anſwered, <hi>The Spirit doth help, in working the heart and affections into a ſutable gracious frame, fit for Prayer, which may be though we uſe a Form of Prayer.</hi>
+               </p>
+               <pb n="35" facs="tcp:119312:21"/>
+               <p>I deny it not, but yet as the Spirit doth ſtirt up affections, and ſighs, <hi>&amp;c.</hi> in the ſoul, ſo thoſe Affections would expreſs themſelves in other words than I finde in the Book.</p>
+               <p>I can tell, (if the Lord hath gifted me) how to expreſſe my own deſires and affections in my own words; and the words oftentimes have a reflection, and help to ſtirre up the affection more. But when I am tyed to the words of other men, I am ſtraitened, they will not ſerve to expreſſe what lies upon my heart; and who is it that knows what the work of the Spirit of God, and the workings of a heart are in prayer, that will not ſoon finde theſe hindered by being tied up to other mens words.</p>
+               <p n="2">2. The Spirit doth not only help to the Grace of Prayer, but the Gift of prayer, and that is hindered be ſure in theſe Forms altogether.</p>
+               <p n="3">3. The Method in Prayer uſe to be this. 1. I feel my wants. 2. My Deſires are ſtirred up to get theſe wants ſupplyed. 3. My minde frameth words to expreſs thoſe deſires to God. 4. Thoſe words are uttered. But in Formes of Prayers, the heart muſt follow the words, they are firſt; in the other, words follow, and interpret my heart, where Prayer begins.</p>
+               <p>I deſire to know of theſe Impoſers of Forms of Prayer, whether if they ſent a Servant on their Meſſage, and the ſervant is hail, luſty, and can go very well; if another man ſhould meet this ſervant, who is going on his journey, and force him to go with crutches, which hinder him extreamly, would you take it well? Why do you force the ſervant of God in his work to uſe your crutches, which are his hindrance in his Maſters work, he can go better without them? I am afraid the bottom of this lieth here, that <hi>many</hi> of our great men, if you take away a Prayer-book, know not how to pray, wanting a praying heart, and they think it ſome diſhonour to them to have other men, over whom they would tyrannize, to exceed them in a gift of Prayer; and ſo force men to their book, that no difference might appear. We leave theſe men to God.</p>
+               <p>Do not theſe Compoſers of Formes of Prayer ſuppoſe their Gifts to be better than any Miniſters upon whom they impoſe their Forms? If other Miniſters can expreſſe the ſame Petitions in other words, as well, may be better, more lively, why are they hindered? Do they know the Gifts of all Miniſters? do they know how the Spirit may aſſiſt them ſometimes over other times? To think your Gifts to be the beſt, ſavours of ſuch pride as becomes not a Chriſtian.</p>
+               <pb n="36" facs="tcp:119312:22"/>
+               <p>Object. <hi>But we finde Forms of Prayer in the Scripture.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> What will you inferr from thence? <hi>Ergo,</hi> Ordinary men now may impoſe their Forms of Prayer upon Miniſters already gifted by God? I deny your Conſequence.</p>
+               <p n="1">1. Will you compare your Formes now compoſed by you, with thoſe Forms which the Penmen of the Scriptures were directed by the Spirit to compoſe?</p>
+               <p n="2">2. Impoſe no other Prayers upon us but Scripture-forms, and we ſhall not refuſe to uſe them, though not them only. The Lords Prayer is the moſt compleat of all the Forms; yet we are not bound to that form only; I hope, we may uſe other prayers, keeping that ſubſtance.</p>
+               <p n="3">3. The 102 <hi>Pſal.</hi> which was made for the afflicted Church a little before the time of their return out of Captivity, as the 13, 14, 15, 16 <hi>Verſes</hi> declare, did not hinder <hi>Daniel,</hi> Chap. 9. to pray by his own gift upon the ſame occaſion, where there is great difference in the Petitions and matter of prayer.</p>
+               <p>Object. <hi>But other Churches have their Formes.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Not all Churches, where men are as orthodox, and holy as ours are.</p>
+               <p n="2">2. <hi>Irenaeus</hi> bids us have recourſe to thoſe Churches in which the Apoſtles were converſant, and in them we finde no ſuch thing.</p>
+               <p n="3">3. Thoſe who have Forms, do yet condemn ours: as witneſs <hi>Apollonius,</hi> in the name of the <hi>Walacrian Claſſis,</hi> p. 172. who rejecting Forms of Prayer, and Adminiſtrations of Sacraments, where the matter is vicious, or any Superſtition cleaves to them, <hi>&amp;c.</hi> He adds, <hi>For this cauſe we reject the Ceremonies, and Forms of Publick Worſhip in the Church of</hi> England, <hi>in theſe laſt corrupt times, brought in by the Hierarehical Biſhops: as thoſe which being Superſtitious and Idolatrous, have deformed the Church, and the worſhip of God, &amp; obſcurarunt glorioſa Reformationis facem &amp; faciem,</hi> &amp;c.</p>
+               <p>In the next Section, the ſame Divines do reject thoſe Forms of Prayer, though in reſpect of the matter of them good, whenas they are impoſed tyrannically, and with violent command upon the conſciences of men, as being abſolutely neceſſary, and eſſential parts of Gods Worſhip, <hi>&amp;c.</hi> They ſpeak more, and that notably, what cruelty they have been made the inſtruments of; and, <hi>Hath not ENGLAND felt it?</hi> See more in that Learned Author, <hi>page</hi> 173. though he maintains the lawfulneſſe of a Form. So do
+<pb n="37" facs="tcp:119312:22"/>the <hi>Leyden Profeſſors,</hi>
+                  <note place="margin">
+                     <hi>Synop pu. the.</hi> p. 499.</note> and yet ſay it is <hi>neceſſary</hi> that Paſtors of Churche; ſhould ſtirr up themſelves to pray without forms, <hi>p.</hi> 499.</p>
+               <p>And once more for our Common-Prayer Book lately uſed, Biſhop <hi>Davenant</hi> hath commended it to us upon this ground, <hi>What is there in it that is not approved of the Papiſts themſelves!</hi>
+                  <note place="margin">
+                     <hi>Determ.</hi> 27.</note> and he confirms the truth of it thus, <hi>That ſome of the Biſhops of Rome have offered to approve our forme of Prayers, provided that we would accept it by their authority;</hi> A notable Argument to bring Orthodox and holy Chriſtians to hear it; though his ſcope is to prove, <hi>Ergo,</hi> the Papiſts ought to be preſent at our worſhip, and the Magiſtrate neglects his Office, if he doth not compell them.</p>
+               <p>Object. <hi>But the totall uſe of Miniſters gifts is not taken away.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> I think it was in ſome places; and every where it was in Baptiſme, and the Lords Supper, only before Sermon, and after, men had the uſe of their gifts, ſcarce that.</p>
+               <p>Object. <hi>But all Miniſters are not able.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Whoſe fault is that? ſhew us ſuch Miniſters ordained by the Presbyterians, that are not in ſome good meaſure able to pray without their book, though there is difference of Gifts: There are a Generation coming in again, that I think indeed are not, all of them, and but very few. I deny not but there was wrong offered to ſome, who were turned out, and let them come in withall my heart: But I ſpeak of Superſtititous men, pot-companions, ſwearers, &amp;c. men who have not the Gift of Prayer, and deſpiſe it in others.</p>
+               <p n="2">2. But what is this to thoſe who are able? why muſt they be forced to read, as other inſufficient men muſt, wanting Gifts.</p>
+               <p>
+                  <hi>Queſtion,</hi> But what if a Form of prayer be impoſed, ſo as not to take away the total uſe of Miniſters Gifts in any Ordinance, they may have their liberty of their own gifts, but ſometimes uſe that Forme.</p>
+               <p>
+                  <hi>Anſw.</hi> I ſhould a little deſire to know the Authority that enjoins it, if a Synod of ſuch Divines as ought to be (I mean not ſuperſtitious Arminians) Orthodox and holy men, did order ſuch a thing in a ſober way, not tyrannically, as abſolutely neceſſary (as ſaid <hi>Apollonius</hi> before) then I confeſſe it would trouble me to refuſe it, though I finde, and have heard ſome of my Brethren ſay, Let the Forms of Prayer be what they will, they will ſubmit to none; it is an offence,
+<pb n="38" facs="tcp:119312:23"/>they conceive, and a wrong to that good ſpirit, who hath pleaſed to beſtow on them the Gift of Prayer, to have that hindered, by ſubmitting to mens injunctions: But I am not ſatisfied in this.</p>
+               <p n="1">1. Becauſe you have the uſe of your gift in all Ordinances only ſometimes you are required to uſe a Form.</p>
+               <p n="2">2. A Form of Prayer, in <hi>it ſelf,</hi> the matter of it being agreeable to the Word, is not unlawfull: thus godly and wiſe men judge.</p>
+               <p n="3">3. I finde that the old holy Non-Conformiſts were not offended at a bare form of Prayer, but ſome particular things in the Common prayer-Book, and truly thoſe are many. Yea, I finde the Congre<g ref="char:EOLhyphen"/>gationall Divines, in <hi>New-England,</hi> though they uſe no forms, [they are able indeed] yet they dare not condemn all Forms of prayer in the Church,
+<note place="margin">
+                     <hi>Defenſe of the</hi> 9 <hi>Poſitions, p.</hi> 34.</note> divers of them at leaſt would not do it; ſo Maſter <hi>Shephard, Though all of us could not concurr to condemn all ſet Forms as unlawfull, yet for the Engliſh Liturgy,</hi> &amp;c. And ſo after, in the ſame <hi>Page,
+<note place="margin">
+                        <p>Thus alſo M<hi rend="sup">r</hi> 
+                           <hi>Norton,</hi> in his Anſwer to <hi>Apollonius,</hi> alloweth of a form of prayer for Miniſters, but if they be gifted, then to impoſe is unlawfull.</p>
+                        <p>But whether he means it is ſo, though they uſe their own gift, and the Forms ſometimes, I finde not. <hi>p.</hi> 138, 139.</p>
+                     </note> But do any we now ſpeak of condemn all uſe thereof?</hi> &amp;c. So again, <hi>page</hi> 38. only there they ſay, <hi>That though the thing it ſelf be lawfull, yet, if not duly circumſtantiated, it may be evil and ſcandalous in the uſe,</hi> as Meats, 1 <hi>Cor.</hi> 8.13. This to me (if we have liberty as in the Queſtion) is the greateſt trouble, how to anſwer the offence it will give to other Chriſtians, in caſe we cannot ſatisfie there, being we have no command in the Word to uſe theſe Forms; how will you help us here? Will men give the Anſwer which Biſhop <hi>Land,</hi> when he ſilenced my Father in law, gave to him? My Father pleaded that Text of <hi>Paul,</hi> He would not offend his weak Brother, Why then ſhould the Biſhop offend him by impoſing the Surplice? To that ſpeech of <hi>Paul,</hi> Biſhop <hi>Laud</hi> anſwered, <hi>Yea, Paul ſaid ſo when he was alone, but do you think Paul would have ſaid ſo, if he had been in a Convocation?</hi> A rare Anſwer, worthy of a Biſhop.</p>
+               <p n="4">4. What think you of this? Do we not many times when we are beaten with tentations, pray our own conditions more than the Congregations? though I know God hath his hand in this, and we do pray the conditions of others, though we know it not, while we pray our own: But yet way we not then uſe theſe Forms alſo, which are common to the whole Congregation, as it were to make amends? Burdened ſouls, when indeed tentations ly heard, cannot but minde themſelves, though none ſhould be the mouth of the Congregation.</p>
+               <p n="5">
+                  <pb n="39" facs="tcp:119312:23"/>5. The thing being in it ſelf good, and doubtleſſe a man may pray graciouſly, though he doth uſe a form. Why may we not yield in ſuch a point, to take off prejudices from our Miniſtry, and if they would join with us more willingly in Prayer, why ſhould this be wholly denied.</p>
+               <p>If you look on it as being ſuch a thing as you will rather lay down your Miniſtry than uſe any form at all, I deſire we might ſee thoſe grounds which may warrant you and us thereunto, and we ſhall thank you</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>CHAP. IV. <hi>Of Ceremonies, and in particular of the Surplice.</hi>
+               </head>
+               <p>I Intend but a few words; We are told, <hi>the Church hath power to decree Rites and Ceremonies,</hi> and this is ſwallowed down ſo rea<g ref="char:EOLhyphen"/>dily, as if there were no bones in it. What they mean by the am<g ref="char:EOLhyphen"/>biguous word, <hi>Ceremony,</hi> and what by the Church, we muſt learn from their practice: And I pray ſee through all <hi>Pauls</hi> Epiſtles where the Church is often mentioned, whether you can find ſuch a Church as decreed our Ceremonies. God having appointed his Day for Worſhip, what time of the day is fitteſt for it, we doubt not the Church may determine; ſo for place, and other things, which of neceſſity muſt be; as if there muſt be Wine and Bread at the Supper, <hi>&amp;c.</hi> then Veſſels muſt be, whether Woodden, (as when they had their golden Prieſts) or Pewter, or Silver, there is no de<g ref="char:EOLhyphen"/>termination by God, the Church may here appoint, but theſe de<g ref="char:EOLhyphen"/>ſerve not the names of Ceremonies: Were we in our pureſt eſtate in <hi>Adam,</hi> had God appointed ſuch Ordimnces, theſe things muſt of neceſſity follow, theſe things muſt be, place and veſſels, <hi>&amp;c.</hi> but it would not then have neceſſarily followed we muſt have gar<g ref="char:EOLhyphen"/>ments; Conſidering ſin indeed which hath brought this ſhame up<g ref="char:EOLhyphen"/>on us, we muſt now from <hi>ſin</hi> have garments, but it doth not follow properly <hi>from the Ordinance</hi> it ſelf we muſt have Garments, as if <hi>Wine and Bread,</hi> we muſt have veſſels to put the Wine into; <hi>if ſin,</hi> then garments, is true; not properly <hi>if ordinances,</hi> then garments; though now it is true.</p>
+               <p>The only Text brought for theſe Ceremonies is, 1 <hi>Cor.</hi> 14. <hi>ult.</hi>
+               </p>
+               <pb n="40" facs="tcp:119312:24"/>
+               <p>
+                  <hi>Let all things be done decently and in Order;</hi> whence thus the Argu<g ref="char:EOLhyphen"/>ment runs.</p>
+               <p>If all the Worſhip of God (for that I think the Apoſtle, by <hi>All things,</hi> properly aimes at) muſt be performed decently in the Church, then the Church may decree Ceremonies.</p>
+               <p>But the Conſequence is denied; For,</p>
+               <p n="1">1. The Worſhip of God may be decently performed without humane Ceremonies, deny it if you can, I will prove it after<g ref="char:EOLhyphen"/>wards.</p>
+               <p n="2">2. The Worſhip of God may be very undecently performed though humane Ceremonies be annexed; we need not to prove what eyes have ſeen among your white Worſhippers in your Ca<g ref="char:EOLhyphen"/>thedrals, and Colledges, how rudely have divers carried them<g ref="char:EOLhyphen"/>ſelves? very much unbecoming the Worſhip of God I am ſure.</p>
+               <p n="3">3. Had Ceremonies been ſo neceſſary, ſurely the Lord would have appointed them himſelf, and not leave his Worſhip to be dreſſed by a vain wretched head of man, oppoſite to him in all things: He whoſe <hi>name is Jealous, Exod.</hi> 34.14. and that in his in<g ref="char:EOLhyphen"/>ſtituted Worſhip, would not let man have this refuge to run to, while he was ſinning againſt his Second Commandment, to ſay, <hi>I do it for decency.</hi>
+               </p>
+               <p n="4">4. God would not ſuffer his Church of old to add one Ceremo<g ref="char:EOLhyphen"/>ny; <hi>Moſes</hi> did as <hi>he was commanded,</hi> repeated ſeven times over in <hi>Exod.</hi> 40. Did God take care of the pins of the Tabernacle then, and will he not now of the Curtains? Since Gods wiſdom ſeeth meet to appoint <hi>none,</hi> mans wiſdome ſeeth meet to appoint what he pleaſe: yea, thus it muſt be, elſe he is not <hi>Man-fallen; i.e.</hi> Croſs to God in every thing. It ſeems, God ſends his worſhip into the Church under the New Teſtament <hi>naked,</hi> and we muſt make Gar<g ref="char:EOLhyphen"/>ments to hide the ſhame of it, and with other Ribbands of our Inventions dreſs it up fine; Will the great God thank you for this, <hi>you, potſheard, man,</hi> who will mend his work?</p>
+               <p n="5">5. What the Apoſtle meaneth by <hi>decency</hi> and Order you may ſee in the eleventh <hi>Chapter,</hi> and this fourteenth <hi>Chapter;</hi> in which Chapters you ſhall find <hi>Undecency</hi> and <hi>Diſorder,</hi> but not for want of Ceremonies.</p>
+               <p n="6">6. If from hence we may appoint Ceremonies, where ſhall we ſtand,
+<note place="margin">
+                     <hi>Determ.</hi> 20.</note> may we not go <hi>in infinitum?</hi> What hinders? B. <hi>Davenant</hi>
+                  <pb n="41" facs="tcp:119312:24"/>ſaith of theſe Ceremonies, <hi>Si nimis excreverint, in hoc graviter peccant,</hi> and quotes <hi>Auſtin</hi> in his 119. <hi>Epiſt.</hi> Complaining of the burden of Ceremonies, preferring the Jews Ceremonies, being Gods own Inſtitutions, before theirs: But what ſaith the Ceremo<g ref="char:EOLhyphen"/>ny-maker, all theſe make the worſhip to be performed <hi>decently?</hi> So this month he invents theſe, the next month he invents others: for ſo we are taught if we will believe, the Church may alter and change the Ceremonies, if ſhe ſee cauſe; yea, and caſt them out alſo, if ſhe be ſo true to her husband as ſhe ſhould be.</p>
+               <p>As for Apparel, I think people commonly come decently enough, ſome elſe will not come at all: And I ſee not but if a Miniſters civil Garments, with his gown, be cleanly, as commonly they are; in theſe his Civil Garments he is decent enough, as to apparel. Such Decency and Order, as whoſe contrary is undecency and diſorder, I think is there meant, and nothing more; but I hope that is not want of a Surplice, which I thus prove:</p>
+               <p n="1">I. If different Garments, appropriated to the worſhip of God,
+<label type="milestone">
+                     <seg type="milestoneunit">Arg. </seg>1</label> [as a Surplice] be requiſite to the decent performance of it, then neither the Apoſtles, nor the Primitive Churches did worſhip God decently.</p>
+               <p>But they did, deny it if you dare; <hi>Ergo,</hi> Such Garments are not requiſite, <hi>&amp;c.</hi>
+               </p>
+               <p>For the Apoſtles, and thoſe Churches, will any ſay they had Surplices? no man will I am ſure. About the year 261. I finde indeed Pope <hi>Stephen</hi> decreed, The Garments for Divine Worſhip ſhould be conſecrated, and uſed only in the Church: But his Decree is not early enough by many years to reach the Primitive Churches. Biſhop <hi>Jewel</hi> quoting <hi>Valafredus Abbas,</hi>
+                  <note place="margin">
+                     <hi>Deſ. Apol.</hi> 326.</note> tells us out of him, that <hi>the old Fathers miniſtred the Holy Communion having on their own common apparel:</hi> very undecently certainly: It is a wonder that holy <hi>Paul</hi> could not ſee his exhortation to <hi>decency</hi> did force in a Surplice, which he and others ſhould have uſed; but older and wiſer: I pray let the Rule of <hi>Irenaeus</hi> before mentioned here take place.</p>
+               <p n="2">II. <label type="milestone">
+                     <seg type="milestoneunit">Arg. </seg>2</label> If a Surplice be requiſite to the decent performing of the worſhip of God, Then all the Congregation ought to wear Surplices. The Reaſon is, Becauſe they are all worſhippers (at leaſt pretend ſo) they come thither to worſhip, and have their acts of worſhip as well as the Miniſter: now <hi>Decency</hi> is as much
+<pb n="42" facs="tcp:119312:25"/>enjoyned them as the Miniſter, for <hi>All things muſt be done in decency:</hi> [this would be a handſome ſight] So all thoſe who have not Surplices, worſhip undecently, for they have not that Garment which is requiſite to Decency, and ſuch undecent Worſhippers have our Congregations ever been.</p>
+               <p n="3">III. <label type="milestone">
+                     <seg type="milestoneunit">Arg. </seg>3</label> That humane Invention which is ſuppoſed to make the worſhip of God better in it ſelf, and more acceptable unto God, is unlawfull: But the humane invented Surplice is ſuppoſed to make the Worſhip of God better in it ſelf, and more acceptable to God: <hi>Ergo,</hi> It is unlawfull.</p>
+               <p>For the <hi>major,</hi> It ſuppoſeth the wiſdome of the Commander to be defective, for here comes in a creature who can adde a degree of goodneſſe to his worſhip, which he hath not commanded, [and ſurely the more goodneſſe in his worſhip, the more acceptance that worſhip muſt have] ſo that the Divine Rule for worſhip is not perfect. <hi>Regula non eſt, ſi quid ei deeſt: Regula &amp; amuſſis neque appoſitionem neque ablationem admittit.</hi> But the Rule which Infinite wiſdom hath given, which we ſuppoſe ſhould provide beſt for what concerns himſelf, is ſhort in this reſpect, for man may add a degree of goodneſſe, and that is better.</p>
+               <p>I know not how to free ſuch an Invention from Superſtition, concerning which I intend not now to diſcourſe: But that which ſome ſay concerning theſe Ceremonies, to ſave them, and other inventions, <hi>They are not oppoſite to the Word, though not commanded;</hi> I confeſſe, a Surplice, as it lyeth in the cheſt, is not oppoſite to the Word, but when the Surplice is appropriated only to the Worſhip of God, and makes it better, &amp;c. now in the uſe of it it is oppoſite; for <hi>Exceſſus Religionis,</hi> which is Superſtition, is oppoſite to the Second Commandement, and this <hi>Exceſſus Religionis eſt in ordine ad actus, &amp; media Religionis externa, &amp; vanae obſervantia circa onltum, aut cum aliquo respectu ad cultum, qua formaliter non ſunt indebitus ſeu falſus cultus:</hi> Theſe by learned and godly Divines abroad are charged with <hi>Superſtition,</hi> I know not how our Ceremo<g ref="char:EOLhyphen"/>nies will eſcape the charge.</p>
+               <p>I pray prove unto us, <hi>That the waſhing of pots, cups,</hi> &amp;c. in <hi>Mark</hi> 7.8. were forbiden by the Word: Had not the Phariſees the ſame Anſwer to give, <hi>We are not Superſtitious in theſe, for they are not oppoſite to the Word:</hi> but the Lord charges them with vain worſhip<g ref="char:EOLhyphen"/>ping, <hi>verſ.</hi> 7. So ſay you, The Surplice and Ceremonies are not
+<pb n="43" facs="tcp:119312:25"/>oppoſite to the Word: <hi>But they put Religion in ſuch waſhings.</hi> They made no more of them, than ours have done of their Ceremonies. Alſo, I pray ſhew us where the Word had commanded, that they muſt <hi>touch, taſte, and handle</hi> thoſe mears or things which their Men-Teachers taught them they muſt <hi>not touch, not taſte, nor handle, Col.</hi> 2.21. if they meant of not eating Hoggs, Conies, Hares fleſh, as the <hi>Rhemiſts</hi> interpret it, [I know various Interpretations, but paſſe them by] might not they ſay, when <hi>Paul</hi> charged them with <hi>will-worſhip,</hi> and Superſtition, <hi>Why</hi> Paul <hi>theſe things are not oppoſite to the Word, May we not forbear to eat theſe, as well as eat them?</hi> this who could deny; but <hi>ſuch</hi> abſtinence the Apoſtle blames, and other things there in the general mentioned; For men to put any Religion, Holineſſe, in what God hath not, and think to add to him, <hi>or mend his Rules</hi> or worſhip, as our men do in Ceremonies, <hi>the jealous God</hi> will not be pleaſed.</p>
+               <p>But then the <hi>Minor</hi> will be denyed: <hi>We do not ſuppoſe the worſhip of God to be better, or to have the leaſt acceptance more with God</hi> for a Surplice, no, no?</p>
+               <p n="1">1. Why then do you uſe theſe Ceremonies, if the worſhip be not one whit the better, nor God accept the more? but that the worſhip is every whit as good, and God fully as well pleaſed with his worſhip, <hi>without</hi> theſe, as <hi>with</hi> theſe, then we ſhall ſhew our ſelves <hi>vain in our Imaginations indeed,</hi> and very fooliſh, having no rational end of our actions. <hi>Cui bono?</hi> To what end then ſerve they? You do uſe to quote the 1 <hi>Cor.</hi> 14. for your ground, and end. It is true, <hi>Decent</hi> Worſhip is better than <hi>Undecent</hi> Worſhip, and we may conceive more acceptable to God. Now, if you by your humane Ceremonies, can make it Decent, and without them it is Undecent, Then your Ceremonies add ſome goodneſſe to the worſhip of God, and tend more to acceptation with him.</p>
+               <p n="2">2. If not, Why then have people been debarred from the Worſhip of God, becauſe the Surplice hath been wanting? I read in the Writings of an eminent Miniſter of Chriſt [whom I knew when he lived] that in <hi>Suffolk</hi> the Surplice was loſt in one Pariſh, There was a ſtrict in junction to the poor Countrymen, that there might not be any Service or Sermon till they had got another, for which they were appointed Ten dayes, and this being upon a Friday, there were two Sabbaths without any Service. Now if the worſhip of God had been as good in it ſelf, and as acceptable to God
+<pb n="44" facs="tcp:119312:26"/>without the Surplice, why were the people hindered from woſhip<g ref="char:EOLhyphen"/>ping of God, and God denyed his due? See what men put in their Ceremonies.</p>
+               <p n="3">3. If not, what is the Reaſon ſo many eminent Servants of God, holy worſhippers of God, have been ſilenced, mouths ſtopped, that they muſt not worſhip God at all in publick, and other troubles and Perſecutions befallen them, and that becauſe of thoſe Ceremonies? If the Worſhip was not the better, nor more accepted with God for the Ceremonies, What ſhould cauſe this?</p>
+               <p>Objection, <hi>No, they would not be obedient.</hi>
+               </p>
+               <p>
+                  <hi>Anſwer,</hi> No men in the world ſo obedient to their Superiours, [ſuch as God had made Superiours] for conſcience ſake. But that was not the end of the injunction to try obedience, that came in accidentally. I never yet heard that our Civil Power did command Ceremonies in the worſhip of God, meerly to try the obedience of the Subject: No nor thoſe who took that power upon them, which God never gave them in the Church; it is not ſaid in their Books, We enjoyn theſe to try your obedience to us. So that there is an other End; of which before.</p>
+               <p n="4">4. Let us ſee whether our Ceremony-makers can better free themſelves from <hi>Superſtition,</hi> than thoſe whom <hi>Tertullian</hi> charged with it, in his Expoſition of the Lords Prayer; we ſhall find there, that the Miniſters were not forced to read their Prayers out of a Book: After he had ſhown what frame we ought to bring with us to Prayer, as to our Brother, then he comes to ſpeak of ſome who when they went to prayer <hi>waſhed their hands,</hi> and ſome their whole bodies, which cleanneſſe, ſaith he, <hi>pleri<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ſuperſtitioſè curant adomnent orationem:</hi> yet it ſeems they had their Reaſon for it, as he alledgeth. Then he adds,
+<note place="margin">This Rule cut off thoſe Ceremonies which were in uſe in <hi>Tertulliaxs</hi> time; and out of uſe with us: (ſome at leaſt)</note> 
+                  <hi>Sed quoniam unum aliqued attigimus vacuae obſervationis, non pigebit caetera quoque denotare, quibus merito vanitas exprobranda est, ſi quidem ſine ullius aut Dominici, aut Apoſtolici Praecepti auctoritate fiunt, hujuſmodi enim non Religioni ſed ſuperſtitioni deputantur, affectata &amp; coacta, &amp; curioſi potius quam rationalis officii. Certè vel eo coercenda quod Gentilibus adaquent.</hi> Then he names ſome who put off their cloaks when they went to prayer, and others had their vain Obſervations. <hi>Tertullian</hi> here ſpeaks like a Chriſtian, one who took his Bible for a perfect Rule. Theſe things we may obſerve in him: 1. What ought to guide and rule us in Worſhip; the Authority of the Lords, and the Apoſtles Precepts.</p>
+               <p n="2">
+                  <pb n="45" facs="tcp:119312:26"/>2. What he judged of ſuch things that were practiced in Prayer, and had not this Authority; he chargeth them with vanity, and Superſtition, <hi>&amp;c.</hi> Now let us examine, why the waſhing of hands before Prayer ſhould not be as warrantable, as a Surplice in Prayer, to ſhew how we <hi>lift up pure hands,</hi> 2 <hi>Tim.</hi> and to ſhew <hi>innocency,</hi> the ſame I think which the Surplice doth, as good, as rational: And what is there more in putting on a Surplice, than putting off a Cloak; a man might fancy ſome ſpiritual thing in that, to ſignifie the putting off the <hi>cloak of maliciouſneſſe,</hi> 1 Pet. 2.16. or of hypocriſie, <hi>&amp;c.</hi> enough we may imagine; you may call this <hi>Religion,</hi> I call it <hi>Superſtition,</hi> ſaith <hi>Tertullian:</hi> Then let the Surplice go under <hi>Tertullians</hi> Cenſure.</p>
+               <p n="4">IV. <label type="milestone">
+                     <seg type="milestoneunit">Arg. </seg>4</label> To follow Heatheniſh and corrupt Worſhippers in the worſhip of the Holy God, is contrary to the Word of God.</p>
+               <p>But to worſhip God in white Garments, appropriated only to the Worſhip of God, is to follow Heatheniſh and corrupt worſhippers; <hi>Ergo.</hi>
+               </p>
+               <p>I know, Heathens may worſhip their Idols as God is, in ſome particulars; when Heathens follow God [as the Devil is Gods Ape, to imitate his worſhip, as <hi>Justin Martyr,</hi> and <hi>Tertullian</hi> ſhew] then the Worſhippers of God are clear, for they follow Gods command in what he hath appointed, and they cannot hinder the Devil from imitating of Gods worſhip, to ſet up himſelf: but when we have no command from God, but it is only our own wills which ſets up ſuch a Ceremony, and therein we make God to be ſerved in that manner which Heathens and Idolatrous perſons worſhip, this cannot be without ſome ſpot of ſin: <hi>not hating the garment ſpotted with the fleſh.</hi> It was upon this ground alſo, that <hi>Tertullian,</hi> in the place fore<g ref="char:EOLhyphen"/>quoted, did condemn theſe Obſervations about prayer; and in his Book, <hi>de Coro. mil.</hi> he reaſoneth vehemently, that a Chriſtian man ought not to go with a <hi>Lawrel Garland</hi> upon his head, and that for none other cauſe, but only for that the Heathens uſed ſo to go.</p>
+               <p>How the Lord warned his people againſt this we know, and hence would not allow them to pray towards the Eaſt, <hi>Ezek.</hi> 8.16. they muſt not be like the Heathens, worſhipping the Sun riſing in the Eaſt. <hi>Arias Montanus,</hi> in his Treatiſe of the <hi>Fabrick of the Temple</hi> ſaith, That the Jews report of thirteen Tables of ſtone, that were in the outward Court of the Temple, at which men were wont to pray, and all of them were made, ſaith he, ſo as ſome looked to the North,
+<pb n="46" facs="tcp:119312:27"/>and ſome to the South, and ſome to the Weſt, but not one to the Eaſt. How many Eaſt-worſhippers do <hi>England</hi> afford?</p>
+               <p>Now for the Surplice; whence we took it, and how in it we follow the corrupt <hi>Romanists,</hi> whom our Epiſcopal men cannot deny but they are corrupt Worſhippers, and how they did conform in their Ceremonies to Heathen Idolaters, to win them over to the Chriſtian Religion; this is well known from Learned men who have written upon that Subject. But I add no more; theſe are only a few thoughts which ran in my minde, others have written more largely upon theſe ſubjects, whom I have not read, but only have heard of them.</p>
+               <p>For the Croſs in Baptiſm, which hath proved ſuch a croſſe to many holy men, I only ſee Mr. <hi>Baxter</hi> in his <hi>Diſput.</hi> about <hi>Church-Govern<g ref="char:EOLhyphen"/>ment,</hi> p. 418. expreſſing himſelf very much againſt it, but I have not had time as yet to read him over; I ſuppoſe the Reader may there finde ſatisfaction.</p>
+               <p>Mr. <hi>Fox,</hi> in his <hi>Martyrol.</hi> Vol. 3. p. 909. relates a Story concerning one <hi>Blomefield,</hi> a Perſecutor, whom God followed with judgments upon his body and eſtate, This <hi>Blomefield</hi> a little before his death bragged, and threatned a good man, one <hi>Simon Herleſtone,</hi> to put him forth to the Officers, becauſe he did wear no Surplice when he ſaid Service. Upon which Mr. <hi>Fox</hi> thus, <hi>Wherefore it is pitty ſuch baits of Popery are left to the enemies to take Chriſtians in: God take them away, or elſe us from them; for God knoweth they be the cauſe of much blindneſſe and ſtrife amongst men.</hi> There is a notable Example of Gods dealing with one who urged a gracious Miniſter to read the Book of Common-prayer, and ſet him Whitſunday for the day, by which day if he did not read it, he threatned to complain of him; but for all his threats was in the grave before the day came, and glad to get that worthy Miniſter whom he threatned to pray with him in his ſickneſs, but then no words of the Book of Common-prayer. This a freſh act of Gods. I thought to have added more Arguments, but that I intended brevity.</p>
+               <p>
+                  <hi>Ravanel</hi> in his <hi>Biblioth. ſacra,</hi> upon the word <hi>Mel,</hi> gives the Reaſon why <hi>Hony</hi> was forbidden in the Sacrifices, <hi>Lev.</hi> 2.11. <hi>To ſignifie</hi> (ſaith he) <hi>that all diviſed Worſhips ſhould be avoided, becauſe ſincere Religion is defiled with them, though they appear beautifull and pleaſing to humane reaſon, as hony to the taſte,</hi> &amp;c. What he ſaith I am ſure is true, namely, That deviſed Worſhip is very beautifull and pleaſing to humane
+<pb n="47" facs="tcp:119312:27"/>reaſon, ſweet as hony; this is fully proved by ſad experience, and the pure Worſhip of God is as baſely contemned: alſo it is as true, that ſincere Religion is defiled by ſuch worſhip; but whether this was the Reaſon why <hi>Hony</hi> was forbidden I go not about to prove.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>CHAP. V. <hi>Of Kneeling at Sacrament.</hi>
+               </head>
+               <p>FOR <hi>Kneeling</hi> at the Sacrament, it being but of later date, I thought,
+<note place="margin">
+                     <hi>Irenaeus, p.</hi> 515.</note> thoſe men who glory ſo much in Antiquity would not have hept ſuch a ſtirr about it, knowing that the geſture of the Chriſtians in the Primitive times on the Lords day was quite oppoſite; for they <hi>ſtood,</hi> and <hi>muſt not kneel</hi> on that day; for <hi>not bowing of the knee on that day did ſignifie their Reſurrection:</hi> and thus <hi>Baſil</hi> holds it forth, as one of the <hi>neceſſary Traditions,</hi> and ſaith, it was given us in ſecret charge by the Apoſtles of Chriſt, <hi>That it is not lawfull for any man to kneel in the Church upon the Sunday, but every man is bound by the ſame Tradition, at Sermon, at Prayer,
+<note place="margin">
+                        <hi>Reply, p.</hi> 282.</note> and at the Communion to ſtand upright.</hi> Gentlemen, How is it, that you who tell us ſo much of <hi>Antiquity,</hi> for the proof of your Epiſcopacy, do you now make ſo light of your own Bible?</p>
+               <p>
+                  <hi>Harding</hi> tells Biſhop <hi>Jewell,</hi> That if the bleſſed Sacrament of the Altar were no other than he and the reſt of the Sacramentarians think of it, then were it not well done for the people to bow down to it. <hi>Tranſubſtantiation</hi> was that which brought in Kneeling, and it ſeems, the Papiſts think if we do not own that, there is no reaſon to Kneel, nay, we do not well to bow down to the Bread and Wine.</p>
+               <p>But that which hath much run in my minde is this, Suppoſe in the Mahometane worſhip, there were ſome diſpute what geſture there ſhould be uſed in it, and the Mahometanes ſhould find in their Alcoran, that Mahomet and ſome of his chiefeſt followers whom they moſt reverence, did uſe ſuch a geſture in the worſhip, and this is recorded in the Alcoran; do we think the Mahometans would not give ſo much honor to Mahomet, his chief followers, &amp; their Alcoran, as to ſay, That is the geſture we muſt and will uſe, which by our Alcoran we finde, our great Prophet and his Followers uſed? I am confident they would not diſgrace their Alcoran, Mahomet, nor
+<pb n="48" facs="tcp:119312:28"/>his Followers ſo much, to ſay, becauſe we are not bound to it, we will uſe another. I beſeech you Brethren, when as we finde in our Holy Bible, that Jeſus Chriſt adminiſtred, and the Apoſtles received the Sacrament, not kneeling, but with another geſture ſuting a feaſt. If the Queſtion be now moved, What geſture muſt we uſe at the Sacrament? do we when we have the geſture of <hi>ſitting</hi> [to be ſure it anſwered ſitting at our feaſts] recorded in our Bibles, that thus the Apoſtles received it, give due honour to our Bibles, and the Apoſtles with our Lord, when we caſt by that, and uſe another? For the honor of my Bible, which I take to be the rule for my Religion, and for the honor of the Apoſtles, who firſt received it, and were the Lords Pen-men, I would chuſe rather to uſe this geſture, becauſe I would ſurely give as much honor to my Bible, as a Turk to his Alcoran.</p>
+               <p>For <hi>CHRISTMASSE-Day,</hi> Mr. <hi>Baxter</hi> hath ſpoken very fully to it, in my apprehenſion, ſome of the Arguments he uſeth againſt it were in my own thoughts, he hath added more, and ſhewn more Learning and Reading than I am acquainted with.</p>
+               <p>If the Day be kept to ſhew our <hi>Love to Christ,</hi> or our <hi>Thanks</hi> for Chriſt, Did not the Apoſtles love him as much as we? were not they as thankfull for him as we? did they not exceed us abundantly in both? and had not they the ſame cauſe for a day that we have? Yet we never finde that they kept ſuch a day: For us to ſeem to be more wiſe, more holy, more enlarged in love to Chriſt, than the Apoſtles, is ſo abhorred in my thoughts, that this is it which hath kept me off from obſerving the Day as ſome men do, though I condemn not other Godly men who do keep it. To conclude;</p>
+               <p n="1">1. In things belonging to God, if we keep cloſe to the Holy Scriptures, there is <hi>no</hi> danger: Why do we not chuſe the ſafeſt?</p>
+               <p n="2">2. If we ſet up that in his Church, for which we have not good warrant from the Word, there <hi>may be</hi> danger.</p>
+               <p n="3">3. To force others to yield to that in Religious things for which there is not ſufficient warrant in the Word; or elſe to force them from their Miniſtry and worſhip of God, <hi>is</hi> certainly very ſinfull, and therefore <hi>very dangerous.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:119312:28"/>
+         </div>
+      </body>
+   </text>
+</TEI>
